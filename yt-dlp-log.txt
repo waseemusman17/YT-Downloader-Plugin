@@ -1,0 +1,3093 @@
+WARNING: "-f best" selects the best pre-merged format which is often not the best option.
+         To let yt-dlp download and merge the best available formats, simply do not pass any format selection.
+         If you know what you are doing and want only the best pre-merged format, use "-f b" instead to suppress this warning
+[youtube:tab] Extracting URL: https://www.youtube.com/watch?v=gMC3gEcD3R0&list=RDgMC3gEcD3R0&start_radio=1&ab_channel=UNIYAL
+[youtube:tab] Downloading playlist RDgMC3gEcD3R0 - add --no-playlist to download just the video gMC3gEcD3R0
+[youtube:tab] RDgMC3gEcD3R0: Downloading webpage
+[download] Downloading playlist: Mix - UNIYAL - Vartmaan prod. Soumya Rawat (Official Music Video)
+[youtube:tab] RDgMC3gEcD3R0 page 1: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 2: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 3: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 4: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 5: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 6: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 7: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 8: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 9: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 10: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 11: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 12: Downloading API JSON
+[youtube:tab] RDgMC3gEcD3R0 page 13: Downloading API JSON
+[youtube:tab] Playlist Mix - UNIYAL - Vartmaan prod. Soumya Rawat (Official Music Video): Downloading 307 items of 307
+[download] Downloading item 1 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gMC3gEcD3R0
+[youtube] gMC3gEcD3R0: Downloading webpage
+[youtube] gMC3gEcD3R0: Downloading tv client config
+[youtube] gMC3gEcD3R0: Downloading player 73381ccc-main
+[youtube] gMC3gEcD3R0: Downloading tv player API JSON
+[youtube] gMC3gEcD3R0: Downloading ios player API JSON
+[youtube] gMC3gEcD3R0: Downloading m3u8 information
+[info] gMC3gEcD3R0: Downloading 1 format(s): 18
+[download] Destination: C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4
+[download]   0.0% of    9.11MiB at  334.13KiB/s ETA 00:27[download]   0.0% of    9.11MiB at  751.40KiB/s ETA 00:12[download]   0.1% of    9.11MiB at    1.37MiB/s ETA 00:06[download]   0.2% of    9.11MiB at    1.84MiB/s ETA 00:04[download]   0.3% of    9.11MiB at    2.76MiB/s ETA 00:03[download]   0.7% of    9.11MiB at    5.14MiB/s ETA 00:01[download]   1.4% of    9.11MiB at    4.29MiB/s ETA 00:02[download]   2.7% of    9.11MiB at    4.23MiB/s ETA 00:02[download]   5.5% of    9.11MiB at    3.38MiB/s ETA 00:02[download]  11.0% of    9.11MiB at    3.48MiB/s ETA 00:02[download]  21.9% of    9.11MiB at    4.05MiB/s ETA 00:01[download]  43.9% of    9.11MiB at    3.75MiB/s ETA 00:01[download]  82.3% of    9.11MiB at    3.59MiB/s ETA 00:00[download] 100.0% of    9.11MiB at    3.59MiB/s ETA 00:00[download] 100% of    9.11MiB in 00:00:02 at 3.50MiB/s
+[download] Downloading item 2 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ym4ti89tItw
+[youtube] Ym4ti89tItw: Downloading webpage
+[youtube] Ym4ti89tItw: Downloading tv client config
+[youtube] Ym4ti89tItw: Downloading tv player API JSON
+[youtube] Ym4ti89tItw: Downloading ios player API JSON
+[youtube] Ym4ti89tItw: Downloading m3u8 information
+[info] Ym4ti89tItw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 3 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qot0iPHozdk
+[youtube] qot0iPHozdk: Downloading webpage
+[youtube] qot0iPHozdk: Downloading tv client config
+[youtube] qot0iPHozdk: Downloading tv player API JSON
+[youtube] qot0iPHozdk: Downloading ios player API JSON
+[youtube] qot0iPHozdk: Downloading m3u8 information
+[info] qot0iPHozdk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 4 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=De9VIp37CjY
+[youtube] De9VIp37CjY: Downloading webpage
+[youtube] De9VIp37CjY: Downloading tv client config
+[youtube] De9VIp37CjY: Downloading tv player API JSON
+[youtube] De9VIp37CjY: Downloading ios player API JSON
+[youtube] De9VIp37CjY: Downloading m3u8 information
+[info] De9VIp37CjY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 5 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vk-O0U4MyoE
+[youtube] vk-O0U4MyoE: Downloading webpage
+[youtube] vk-O0U4MyoE: Downloading tv client config
+[youtube] vk-O0U4MyoE: Downloading tv player API JSON
+[youtube] vk-O0U4MyoE: Downloading ios player API JSON
+[youtube] vk-O0U4MyoE: Downloading m3u8 information
+[info] vk-O0U4MyoE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 6 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=k4L-D-Q23Jw
+[youtube] k4L-D-Q23Jw: Downloading webpage
+[youtube] k4L-D-Q23Jw: Downloading tv client config
+[youtube] k4L-D-Q23Jw: Downloading tv player API JSON
+[youtube] k4L-D-Q23Jw: Downloading ios player API JSON
+[youtube] k4L-D-Q23Jw: Downloading m3u8 information
+[info] k4L-D-Q23Jw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 7 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Qg9LxRHLbAk
+[youtube] Qg9LxRHLbAk: Downloading webpage
+[youtube] Qg9LxRHLbAk: Downloading tv client config
+[youtube] Qg9LxRHLbAk: Downloading tv player API JSON
+[youtube] Qg9LxRHLbAk: Downloading ios player API JSON
+[youtube] Qg9LxRHLbAk: Downloading m3u8 information
+[info] Qg9LxRHLbAk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 8 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pqZuSz8_2DM
+[youtube] pqZuSz8_2DM: Downloading webpage
+[youtube] pqZuSz8_2DM: Downloading tv client config
+[youtube] pqZuSz8_2DM: Downloading tv player API JSON
+[youtube] pqZuSz8_2DM: Downloading ios player API JSON
+[youtube] pqZuSz8_2DM: Downloading m3u8 information
+[info] pqZuSz8_2DM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 9 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qVcHlaFZf6A
+[youtube] qVcHlaFZf6A: Downloading webpage
+[youtube] qVcHlaFZf6A: Downloading tv client config
+[youtube] qVcHlaFZf6A: Downloading tv player API JSON
+[youtube] qVcHlaFZf6A: Downloading ios player API JSON
+[youtube] qVcHlaFZf6A: Downloading m3u8 information
+[info] qVcHlaFZf6A: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 10 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MbJ72KO5khs
+[youtube] MbJ72KO5khs: Downloading webpage
+[youtube] MbJ72KO5khs: Downloading tv client config
+[youtube] MbJ72KO5khs: Downloading tv player API JSON
+[youtube] MbJ72KO5khs: Downloading ios player API JSON
+[youtube] MbJ72KO5khs: Downloading m3u8 information
+[info] MbJ72KO5khs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 11 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Q-8po1Zza-8
+[youtube] Q-8po1Zza-8: Downloading webpage
+[youtube] Q-8po1Zza-8: Downloading tv client config
+[youtube] Q-8po1Zza-8: Downloading tv player API JSON
+[youtube] Q-8po1Zza-8: Downloading ios player API JSON
+[youtube] Q-8po1Zza-8: Downloading m3u8 information
+[info] Q-8po1Zza-8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 12 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VEQ-XJWiQMM
+[youtube] VEQ-XJWiQMM: Downloading webpage
+[youtube] VEQ-XJWiQMM: Downloading tv client config
+[youtube] VEQ-XJWiQMM: Downloading tv player API JSON
+[youtube] VEQ-XJWiQMM: Downloading ios player API JSON
+[youtube] VEQ-XJWiQMM: Downloading m3u8 information
+[info] VEQ-XJWiQMM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 13 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=F_Kflq6ZFp0
+[youtube] F_Kflq6ZFp0: Downloading webpage
+[youtube] F_Kflq6ZFp0: Downloading tv client config
+[youtube] F_Kflq6ZFp0: Downloading tv player API JSON
+[youtube] F_Kflq6ZFp0: Downloading ios player API JSON
+[youtube] F_Kflq6ZFp0: Downloading m3u8 information
+[info] F_Kflq6ZFp0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 14 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4tywp83zkmk
+[youtube] 4tywp83zkmk: Downloading webpage
+[youtube] 4tywp83zkmk: Downloading tv client config
+[youtube] 4tywp83zkmk: Downloading tv player API JSON
+[youtube] 4tywp83zkmk: Downloading ios player API JSON
+[youtube] 4tywp83zkmk: Downloading m3u8 information
+[info] 4tywp83zkmk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 15 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=XTp5jaRU3Ws
+[youtube] XTp5jaRU3Ws: Downloading webpage
+[youtube] XTp5jaRU3Ws: Downloading tv client config
+[youtube] XTp5jaRU3Ws: Downloading tv player API JSON
+[youtube] XTp5jaRU3Ws: Downloading ios player API JSON
+[youtube] XTp5jaRU3Ws: Downloading m3u8 information
+[info] XTp5jaRU3Ws: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 16 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1OAjeECW90E
+[youtube] 1OAjeECW90E: Downloading webpage
+[youtube] 1OAjeECW90E: Downloading tv client config
+[youtube] 1OAjeECW90E: Downloading tv player API JSON
+[youtube] 1OAjeECW90E: Downloading ios player API JSON
+[youtube] 1OAjeECW90E: Downloading m3u8 information
+[info] 1OAjeECW90E: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 17 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4DfVxVeqk2o
+[youtube] 4DfVxVeqk2o: Downloading webpage
+[youtube] 4DfVxVeqk2o: Downloading tv client config
+[youtube] 4DfVxVeqk2o: Downloading tv player API JSON
+[youtube] 4DfVxVeqk2o: Downloading ios player API JSON
+[youtube] 4DfVxVeqk2o: Downloading m3u8 information
+[info] 4DfVxVeqk2o: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 18 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5eQu6MFGoG8
+[youtube] 5eQu6MFGoG8: Downloading webpage
+[youtube] 5eQu6MFGoG8: Downloading tv client config
+[youtube] 5eQu6MFGoG8: Downloading tv player API JSON
+[youtube] 5eQu6MFGoG8: Downloading ios player API JSON
+[youtube] 5eQu6MFGoG8: Downloading m3u8 information
+[info] 5eQu6MFGoG8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 19 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=INzwB4Yd1K8
+[youtube] INzwB4Yd1K8: Downloading webpage
+[youtube] INzwB4Yd1K8: Downloading tv client config
+[youtube] INzwB4Yd1K8: Downloading tv player API JSON
+[youtube] INzwB4Yd1K8: Downloading ios player API JSON
+[youtube] INzwB4Yd1K8: Downloading m3u8 information
+[info] INzwB4Yd1K8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 20 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=a5aOM1EpJmE
+[youtube] a5aOM1EpJmE: Downloading webpage
+[youtube] a5aOM1EpJmE: Downloading tv client config
+[youtube] a5aOM1EpJmE: Downloading tv player API JSON
+[youtube] a5aOM1EpJmE: Downloading ios player API JSON
+[youtube] a5aOM1EpJmE: Downloading m3u8 information
+[info] a5aOM1EpJmE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 21 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=69-yupf0pAY
+[youtube] 69-yupf0pAY: Downloading webpage
+[youtube] 69-yupf0pAY: Downloading tv client config
+[youtube] 69-yupf0pAY: Downloading tv player API JSON
+[youtube] 69-yupf0pAY: Downloading ios player API JSON
+[youtube] 69-yupf0pAY: Downloading m3u8 information
+[info] 69-yupf0pAY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 22 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ijE2MMtzkHg
+[youtube] ijE2MMtzkHg: Downloading webpage
+[youtube] ijE2MMtzkHg: Downloading tv client config
+[youtube] ijE2MMtzkHg: Downloading tv player API JSON
+[youtube] ijE2MMtzkHg: Downloading ios player API JSON
+[youtube] ijE2MMtzkHg: Downloading m3u8 information
+[info] ijE2MMtzkHg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 23 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Gz38Yj09k3A
+[youtube] Gz38Yj09k3A: Downloading webpage
+[youtube] Gz38Yj09k3A: Downloading tv client config
+[youtube] Gz38Yj09k3A: Downloading tv player API JSON
+[youtube] Gz38Yj09k3A: Downloading ios player API JSON
+[youtube] Gz38Yj09k3A: Downloading m3u8 information
+[info] Gz38Yj09k3A: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 24 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-2RAq5o5pwc
+[youtube] -2RAq5o5pwc: Downloading webpage
+[youtube] -2RAq5o5pwc: Downloading tv client config
+[youtube] -2RAq5o5pwc: Downloading tv player API JSON
+[youtube] -2RAq5o5pwc: Downloading ios player API JSON
+[youtube] -2RAq5o5pwc: Downloading m3u8 information
+[info] -2RAq5o5pwc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 25 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3Cp2QTBZAFQ
+[youtube] 3Cp2QTBZAFQ: Downloading webpage
+[youtube] 3Cp2QTBZAFQ: Downloading tv client config
+[youtube] 3Cp2QTBZAFQ: Downloading tv player API JSON
+[youtube] 3Cp2QTBZAFQ: Downloading ios player API JSON
+[youtube] 3Cp2QTBZAFQ: Downloading m3u8 information
+[info] 3Cp2QTBZAFQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 26 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=AX6OrbgS8lI
+[youtube] AX6OrbgS8lI: Downloading webpage
+[youtube] AX6OrbgS8lI: Downloading tv client config
+[youtube] AX6OrbgS8lI: Downloading tv player API JSON
+[youtube] AX6OrbgS8lI: Downloading ios player API JSON
+[youtube] AX6OrbgS8lI: Downloading m3u8 information
+[info] AX6OrbgS8lI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 27 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ogBQ3VymYbk
+[youtube] ogBQ3VymYbk: Downloading webpage
+[youtube] ogBQ3VymYbk: Downloading tv client config
+[youtube] ogBQ3VymYbk: Downloading tv player API JSON
+[youtube] ogBQ3VymYbk: Downloading ios player API JSON
+[youtube] ogBQ3VymYbk: Downloading m3u8 information
+[info] ogBQ3VymYbk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 28 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=n5CxWkohlCs
+[youtube] n5CxWkohlCs: Downloading webpage
+[youtube] n5CxWkohlCs: Downloading tv client config
+[youtube] n5CxWkohlCs: Downloading tv player API JSON
+[youtube] n5CxWkohlCs: Downloading ios player API JSON
+[youtube] n5CxWkohlCs: Downloading m3u8 information
+[info] n5CxWkohlCs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 29 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=8of5w7RgcTc
+[youtube] 8of5w7RgcTc: Downloading webpage
+[youtube] 8of5w7RgcTc: Downloading tv client config
+[youtube] 8of5w7RgcTc: Downloading tv player API JSON
+[youtube] 8of5w7RgcTc: Downloading ios player API JSON
+[youtube] 8of5w7RgcTc: Downloading m3u8 information
+[info] 8of5w7RgcTc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 30 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VNs_cCtdbPc
+[youtube] VNs_cCtdbPc: Downloading webpage
+[youtube] VNs_cCtdbPc: Downloading tv client config
+[youtube] VNs_cCtdbPc: Downloading tv player API JSON
+[youtube] VNs_cCtdbPc: Downloading ios player API JSON
+[youtube] VNs_cCtdbPc: Downloading m3u8 information
+[info] VNs_cCtdbPc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 31 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jXJQXCWbmQ0
+[youtube] jXJQXCWbmQ0: Downloading webpage
+[youtube] jXJQXCWbmQ0: Downloading tv client config
+[youtube] jXJQXCWbmQ0: Downloading tv player API JSON
+[youtube] jXJQXCWbmQ0: Downloading ios player API JSON
+[youtube] jXJQXCWbmQ0: Downloading m3u8 information
+[info] jXJQXCWbmQ0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 32 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MlLwSt23wUc
+[youtube] MlLwSt23wUc: Downloading webpage
+[youtube] MlLwSt23wUc: Downloading tv client config
+[youtube] MlLwSt23wUc: Downloading tv player API JSON
+[youtube] MlLwSt23wUc: Downloading ios player API JSON
+[youtube] MlLwSt23wUc: Downloading m3u8 information
+[info] MlLwSt23wUc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 33 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Pb4CWOWTxtc
+[youtube] Pb4CWOWTxtc: Downloading webpage
+[youtube] Pb4CWOWTxtc: Downloading tv client config
+[youtube] Pb4CWOWTxtc: Downloading tv player API JSON
+[youtube] Pb4CWOWTxtc: Downloading ios player API JSON
+[youtube] Pb4CWOWTxtc: Downloading m3u8 information
+[info] Pb4CWOWTxtc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 34 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MZuYthwMNtg
+[youtube] MZuYthwMNtg: Downloading webpage
+[youtube] MZuYthwMNtg: Downloading tv client config
+[youtube] MZuYthwMNtg: Downloading tv player API JSON
+[youtube] MZuYthwMNtg: Downloading ios player API JSON
+[youtube] MZuYthwMNtg: Downloading m3u8 information
+[info] MZuYthwMNtg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 35 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mGwz92koI6o
+[youtube] mGwz92koI6o: Downloading webpage
+[youtube] mGwz92koI6o: Downloading tv client config
+[youtube] mGwz92koI6o: Downloading tv player API JSON
+[youtube] mGwz92koI6o: Downloading ios player API JSON
+[youtube] mGwz92koI6o: Downloading m3u8 information
+[info] mGwz92koI6o: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 36 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ecs-foVS74Q
+[youtube] Ecs-foVS74Q: Downloading webpage
+[youtube] Ecs-foVS74Q: Downloading tv client config
+[youtube] Ecs-foVS74Q: Downloading tv player API JSON
+[youtube] Ecs-foVS74Q: Downloading ios player API JSON
+[youtube] Ecs-foVS74Q: Downloading m3u8 information
+[info] Ecs-foVS74Q: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 37 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_BXTFHm-qM8
+[youtube] _BXTFHm-qM8: Downloading webpage
+[youtube] _BXTFHm-qM8: Downloading tv client config
+[youtube] _BXTFHm-qM8: Downloading tv player API JSON
+[youtube] _BXTFHm-qM8: Downloading ios player API JSON
+[youtube] _BXTFHm-qM8: Downloading m3u8 information
+[info] _BXTFHm-qM8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 38 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ROfQCNYsLL8
+[youtube] ROfQCNYsLL8: Downloading webpage
+[youtube] ROfQCNYsLL8: Downloading tv client config
+[youtube] ROfQCNYsLL8: Downloading tv player API JSON
+[youtube] ROfQCNYsLL8: Downloading ios player API JSON
+[youtube] ROfQCNYsLL8: Downloading m3u8 information
+[info] ROfQCNYsLL8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 39 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Qu3Y2Q2Ypgk
+[youtube] Qu3Y2Q2Ypgk: Downloading webpage
+[youtube] Qu3Y2Q2Ypgk: Downloading tv client config
+[youtube] Qu3Y2Q2Ypgk: Downloading tv player API JSON
+[youtube] Qu3Y2Q2Ypgk: Downloading ios player API JSON
+[youtube] Qu3Y2Q2Ypgk: Downloading m3u8 information
+[info] Qu3Y2Q2Ypgk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 40 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=h5OGZZduncg
+[youtube] h5OGZZduncg: Downloading webpage
+[youtube] h5OGZZduncg: Downloading tv client config
+[youtube] h5OGZZduncg: Downloading tv player API JSON
+[youtube] h5OGZZduncg: Downloading ios player API JSON
+[youtube] h5OGZZduncg: Downloading m3u8 information
+[info] h5OGZZduncg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 41 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6bKoM4jkKcI
+[youtube] 6bKoM4jkKcI: Downloading webpage
+[youtube] 6bKoM4jkKcI: Downloading tv client config
+[youtube] 6bKoM4jkKcI: Downloading tv player API JSON
+[youtube] 6bKoM4jkKcI: Downloading ios player API JSON
+[youtube] 6bKoM4jkKcI: Downloading m3u8 information
+[info] 6bKoM4jkKcI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 42 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=r5Ak4KY8-cs
+[youtube] r5Ak4KY8-cs: Downloading webpage
+[youtube] r5Ak4KY8-cs: Downloading tv client config
+[youtube] r5Ak4KY8-cs: Downloading tv player API JSON
+[youtube] r5Ak4KY8-cs: Downloading ios player API JSON
+[youtube] r5Ak4KY8-cs: Downloading m3u8 information
+[info] r5Ak4KY8-cs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 43 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wU1JEn1Fwfw
+[youtube] wU1JEn1Fwfw: Downloading webpage
+[youtube] wU1JEn1Fwfw: Downloading tv client config
+[youtube] wU1JEn1Fwfw: Downloading tv player API JSON
+[youtube] wU1JEn1Fwfw: Downloading ios player API JSON
+[youtube] wU1JEn1Fwfw: Downloading m3u8 information
+[info] wU1JEn1Fwfw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 44 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LsUdoy7EH7M
+[youtube] LsUdoy7EH7M: Downloading webpage
+[youtube] LsUdoy7EH7M: Downloading tv client config
+[youtube] LsUdoy7EH7M: Downloading tv player API JSON
+[youtube] LsUdoy7EH7M: Downloading ios player API JSON
+[youtube] LsUdoy7EH7M: Downloading m3u8 information
+[info] LsUdoy7EH7M: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 45 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=I1nX5EuvwzE
+[youtube] I1nX5EuvwzE: Downloading webpage
+[youtube] I1nX5EuvwzE: Downloading tv client config
+[youtube] I1nX5EuvwzE: Downloading tv player API JSON
+[youtube] I1nX5EuvwzE: Downloading ios player API JSON
+[youtube] I1nX5EuvwzE: Downloading m3u8 information
+[info] I1nX5EuvwzE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 46 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-mgGnx1p3b8
+[youtube] -mgGnx1p3b8: Downloading webpage
+[youtube] -mgGnx1p3b8: Downloading tv client config
+[youtube] -mgGnx1p3b8: Downloading tv player API JSON
+[youtube] -mgGnx1p3b8: Downloading ios player API JSON
+[youtube] -mgGnx1p3b8: Downloading m3u8 information
+[info] -mgGnx1p3b8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 47 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RiZL2j5mIPw
+[youtube] RiZL2j5mIPw: Downloading webpage
+[youtube] RiZL2j5mIPw: Downloading tv client config
+[youtube] RiZL2j5mIPw: Downloading tv player API JSON
+[youtube] RiZL2j5mIPw: Downloading ios player API JSON
+[youtube] RiZL2j5mIPw: Downloading m3u8 information
+[info] RiZL2j5mIPw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 48 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=XO8wew38VM8
+[youtube] XO8wew38VM8: Downloading webpage
+[youtube] XO8wew38VM8: Downloading tv client config
+[youtube] XO8wew38VM8: Downloading tv player API JSON
+[youtube] XO8wew38VM8: Downloading ios player API JSON
+[youtube] XO8wew38VM8: Downloading m3u8 information
+[info] XO8wew38VM8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 49 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vR16Gu-Uq00
+[youtube] vR16Gu-Uq00: Downloading webpage
+[youtube] vR16Gu-Uq00: Downloading tv client config
+[youtube] vR16Gu-Uq00: Downloading tv player API JSON
+[youtube] vR16Gu-Uq00: Downloading ios player API JSON
+[youtube] vR16Gu-Uq00: Downloading m3u8 information
+[info] vR16Gu-Uq00: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 50 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PejQbGZraqg
+[youtube] PejQbGZraqg: Downloading webpage
+[youtube] PejQbGZraqg: Downloading tv client config
+[youtube] PejQbGZraqg: Downloading tv player API JSON
+[youtube] PejQbGZraqg: Downloading ios player API JSON
+[youtube] PejQbGZraqg: Downloading m3u8 information
+[info] PejQbGZraqg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 51 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=kmjeMrjOjFA
+[youtube] kmjeMrjOjFA: Downloading webpage
+[youtube] kmjeMrjOjFA: Downloading tv client config
+[youtube] kmjeMrjOjFA: Downloading tv player API JSON
+[youtube] kmjeMrjOjFA: Downloading ios player API JSON
+[youtube] kmjeMrjOjFA: Downloading m3u8 information
+[info] kmjeMrjOjFA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 52 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=43KpwU2tQzM
+[youtube] 43KpwU2tQzM: Downloading webpage
+[youtube] 43KpwU2tQzM: Downloading tv client config
+[youtube] 43KpwU2tQzM: Downloading tv player API JSON
+[youtube] 43KpwU2tQzM: Downloading ios player API JSON
+[youtube] 43KpwU2tQzM: Downloading m3u8 information
+[info] 43KpwU2tQzM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 53 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=fRJ03btNsao
+[youtube] fRJ03btNsao: Downloading webpage
+[youtube] fRJ03btNsao: Downloading tv client config
+[youtube] fRJ03btNsao: Downloading tv player API JSON
+[youtube] fRJ03btNsao: Downloading ios player API JSON
+[youtube] fRJ03btNsao: Downloading m3u8 information
+[info] fRJ03btNsao: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 54 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=d2ofxg8pHfQ
+[youtube] d2ofxg8pHfQ: Downloading webpage
+[youtube] d2ofxg8pHfQ: Downloading tv client config
+[youtube] d2ofxg8pHfQ: Downloading tv player API JSON
+[youtube] d2ofxg8pHfQ: Downloading ios player API JSON
+[youtube] d2ofxg8pHfQ: Downloading m3u8 information
+[info] d2ofxg8pHfQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 55 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ypgdi37o9nI
+[youtube] Ypgdi37o9nI: Downloading webpage
+[youtube] Ypgdi37o9nI: Downloading tv client config
+[youtube] Ypgdi37o9nI: Downloading tv player API JSON
+[youtube] Ypgdi37o9nI: Downloading ios player API JSON
+[youtube] Ypgdi37o9nI: Downloading m3u8 information
+[info] Ypgdi37o9nI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 56 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ie6ODMbwSCo
+[youtube] Ie6ODMbwSCo: Downloading webpage
+[youtube] Ie6ODMbwSCo: Downloading tv client config
+[youtube] Ie6ODMbwSCo: Downloading tv player API JSON
+[youtube] Ie6ODMbwSCo: Downloading ios player API JSON
+[youtube] Ie6ODMbwSCo: Downloading m3u8 information
+[info] Ie6ODMbwSCo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 57 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dRch5g76dt0
+[youtube] dRch5g76dt0: Downloading webpage
+[youtube] dRch5g76dt0: Downloading tv client config
+[youtube] dRch5g76dt0: Downloading tv player API JSON
+[youtube] dRch5g76dt0: Downloading ios player API JSON
+[youtube] dRch5g76dt0: Downloading m3u8 information
+[info] dRch5g76dt0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 58 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=i6GYhNg-Xkk
+[youtube] i6GYhNg-Xkk: Downloading webpage
+[youtube] i6GYhNg-Xkk: Downloading tv client config
+[youtube] i6GYhNg-Xkk: Downloading tv player API JSON
+[youtube] i6GYhNg-Xkk: Downloading ios player API JSON
+[youtube] i6GYhNg-Xkk: Downloading m3u8 information
+[info] i6GYhNg-Xkk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 59 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=60jigrI_owU
+[youtube] 60jigrI_owU: Downloading webpage
+[youtube] 60jigrI_owU: Downloading tv client config
+[youtube] 60jigrI_owU: Downloading tv player API JSON
+[youtube] 60jigrI_owU: Downloading ios player API JSON
+[youtube] 60jigrI_owU: Downloading m3u8 information
+[info] 60jigrI_owU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 60 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=42Ekv1x_Qdo
+[youtube] 42Ekv1x_Qdo: Downloading webpage
+[youtube] 42Ekv1x_Qdo: Downloading tv client config
+[youtube] 42Ekv1x_Qdo: Downloading tv player API JSON
+[youtube] 42Ekv1x_Qdo: Downloading ios player API JSON
+[youtube] 42Ekv1x_Qdo: Downloading m3u8 information
+[info] 42Ekv1x_Qdo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 61 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=aFWDOFg7X2A
+[youtube] aFWDOFg7X2A: Downloading webpage
+[youtube] aFWDOFg7X2A: Downloading tv client config
+[youtube] aFWDOFg7X2A: Downloading tv player API JSON
+[youtube] aFWDOFg7X2A: Downloading ios player API JSON
+[youtube] aFWDOFg7X2A: Downloading m3u8 information
+[info] aFWDOFg7X2A: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 62 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mn-kkuS_GGA
+[youtube] mn-kkuS_GGA: Downloading webpage
+[youtube] mn-kkuS_GGA: Downloading tv client config
+[youtube] mn-kkuS_GGA: Downloading tv player API JSON
+[youtube] mn-kkuS_GGA: Downloading ios player API JSON
+[youtube] mn-kkuS_GGA: Downloading m3u8 information
+[info] mn-kkuS_GGA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 63 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vyrPwLoIYkc
+[youtube] vyrPwLoIYkc: Downloading webpage
+[youtube] vyrPwLoIYkc: Downloading tv client config
+[youtube] vyrPwLoIYkc: Downloading tv player API JSON
+[youtube] vyrPwLoIYkc: Downloading ios player API JSON
+[youtube] vyrPwLoIYkc: Downloading m3u8 information
+[info] vyrPwLoIYkc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 64 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0mCVpUDCkEk
+[youtube] 0mCVpUDCkEk: Downloading webpage
+[youtube] 0mCVpUDCkEk: Downloading tv client config
+[youtube] 0mCVpUDCkEk: Downloading tv player API JSON
+[youtube] 0mCVpUDCkEk: Downloading ios player API JSON
+[youtube] 0mCVpUDCkEk: Downloading m3u8 information
+[info] 0mCVpUDCkEk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 65 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gcOyAwm2zp8
+[youtube] gcOyAwm2zp8: Downloading webpage
+[youtube] gcOyAwm2zp8: Downloading tv client config
+[youtube] gcOyAwm2zp8: Downloading tv player API JSON
+[youtube] gcOyAwm2zp8: Downloading ios player API JSON
+[youtube] gcOyAwm2zp8: Downloading m3u8 information
+[info] gcOyAwm2zp8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 66 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2AiYQAGR-pE
+[youtube] 2AiYQAGR-pE: Downloading webpage
+[youtube] 2AiYQAGR-pE: Downloading tv client config
+[youtube] 2AiYQAGR-pE: Downloading tv player API JSON
+[youtube] 2AiYQAGR-pE: Downloading ios player API JSON
+[youtube] 2AiYQAGR-pE: Downloading m3u8 information
+[info] 2AiYQAGR-pE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 67 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VIE-NMeYAoU
+[youtube] VIE-NMeYAoU: Downloading webpage
+[youtube] VIE-NMeYAoU: Downloading tv client config
+[youtube] VIE-NMeYAoU: Downloading tv player API JSON
+[youtube] VIE-NMeYAoU: Downloading ios player API JSON
+[youtube] VIE-NMeYAoU: Downloading m3u8 information
+[info] VIE-NMeYAoU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 68 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yBx7UdNwkL8
+[youtube] yBx7UdNwkL8: Downloading webpage
+[youtube] yBx7UdNwkL8: Downloading tv client config
+[youtube] yBx7UdNwkL8: Downloading tv player API JSON
+[youtube] yBx7UdNwkL8: Downloading ios player API JSON
+[youtube] yBx7UdNwkL8: Downloading m3u8 information
+[info] yBx7UdNwkL8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 69 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=KigR4MQUxE8
+[youtube] KigR4MQUxE8: Downloading webpage
+[youtube] KigR4MQUxE8: Downloading tv client config
+[youtube] KigR4MQUxE8: Downloading tv player API JSON
+[youtube] KigR4MQUxE8: Downloading ios player API JSON
+[youtube] KigR4MQUxE8: Downloading m3u8 information
+[info] KigR4MQUxE8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 70 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jIQ0Dx-4peE
+[youtube] jIQ0Dx-4peE: Downloading webpage
+[youtube] jIQ0Dx-4peE: Downloading tv client config
+[youtube] jIQ0Dx-4peE: Downloading tv player API JSON
+[youtube] jIQ0Dx-4peE: Downloading ios player API JSON
+[youtube] jIQ0Dx-4peE: Downloading m3u8 information
+[info] jIQ0Dx-4peE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 71 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=DLZD47lj82o
+[youtube] DLZD47lj82o: Downloading webpage
+[youtube] DLZD47lj82o: Downloading tv client config
+[youtube] DLZD47lj82o: Downloading tv player API JSON
+[youtube] DLZD47lj82o: Downloading ios player API JSON
+[youtube] DLZD47lj82o: Downloading m3u8 information
+[info] DLZD47lj82o: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 72 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6xoB4ZiKKn0
+[youtube] 6xoB4ZiKKn0: Downloading webpage
+[youtube] 6xoB4ZiKKn0: Downloading tv client config
+[youtube] 6xoB4ZiKKn0: Downloading tv player API JSON
+[youtube] 6xoB4ZiKKn0: Downloading ios player API JSON
+[youtube] 6xoB4ZiKKn0: Downloading m3u8 information
+[info] 6xoB4ZiKKn0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 73 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yIR76Q3InbY
+[youtube] yIR76Q3InbY: Downloading webpage
+[youtube] yIR76Q3InbY: Downloading tv client config
+[youtube] yIR76Q3InbY: Downloading tv player API JSON
+[youtube] yIR76Q3InbY: Downloading ios player API JSON
+[youtube] yIR76Q3InbY: Downloading m3u8 information
+[info] yIR76Q3InbY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 74 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vsWxs1tuwDk
+[youtube] vsWxs1tuwDk: Downloading webpage
+[youtube] vsWxs1tuwDk: Downloading tv client config
+[youtube] vsWxs1tuwDk: Downloading tv player API JSON
+[youtube] vsWxs1tuwDk: Downloading ios player API JSON
+[youtube] vsWxs1tuwDk: Downloading m3u8 information
+[info] vsWxs1tuwDk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 75 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lNOtv1mXbQ8
+[youtube] lNOtv1mXbQ8: Downloading webpage
+[youtube] lNOtv1mXbQ8: Downloading tv client config
+[youtube] lNOtv1mXbQ8: Downloading tv player API JSON
+[youtube] lNOtv1mXbQ8: Downloading ios player API JSON
+[youtube] lNOtv1mXbQ8: Downloading m3u8 information
+[info] lNOtv1mXbQ8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 76 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=a-PAcmi5Kas
+[youtube] a-PAcmi5Kas: Downloading webpage
+[youtube] a-PAcmi5Kas: Downloading tv client config
+[youtube] a-PAcmi5Kas: Downloading tv player API JSON
+[youtube] a-PAcmi5Kas: Downloading ios player API JSON
+[youtube] a-PAcmi5Kas: Downloading m3u8 information
+[info] a-PAcmi5Kas: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 77 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BcSejVIxB0E
+[youtube] BcSejVIxB0E: Downloading webpage
+[youtube] BcSejVIxB0E: Downloading tv client config
+[youtube] BcSejVIxB0E: Downloading tv player API JSON
+[youtube] BcSejVIxB0E: Downloading ios player API JSON
+[youtube] BcSejVIxB0E: Downloading m3u8 information
+[info] BcSejVIxB0E: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 78 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=a3Ue-LN5B9U
+[youtube] a3Ue-LN5B9U: Downloading webpage
+[youtube] a3Ue-LN5B9U: Downloading tv client config
+[youtube] a3Ue-LN5B9U: Downloading tv player API JSON
+[youtube] a3Ue-LN5B9U: Downloading ios player API JSON
+[youtube] a3Ue-LN5B9U: Downloading m3u8 information
+[info] a3Ue-LN5B9U: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 79 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uChhQpHMmXE
+[youtube] uChhQpHMmXE: Downloading webpage
+[youtube] uChhQpHMmXE: Downloading tv client config
+[youtube] uChhQpHMmXE: Downloading tv player API JSON
+[youtube] uChhQpHMmXE: Downloading ios player API JSON
+[youtube] uChhQpHMmXE: Downloading m3u8 information
+[info] uChhQpHMmXE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 80 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mZQH8CPQ-wo
+[youtube] mZQH8CPQ-wo: Downloading webpage
+[youtube] mZQH8CPQ-wo: Downloading tv client config
+[youtube] mZQH8CPQ-wo: Downloading tv player API JSON
+[youtube] mZQH8CPQ-wo: Downloading ios player API JSON
+[youtube] mZQH8CPQ-wo: Downloading m3u8 information
+[info] mZQH8CPQ-wo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 81 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_EfZAOjo69U
+[youtube] _EfZAOjo69U: Downloading webpage
+[youtube] _EfZAOjo69U: Downloading tv client config
+[youtube] _EfZAOjo69U: Downloading tv player API JSON
+[youtube] _EfZAOjo69U: Downloading ios player API JSON
+[youtube] _EfZAOjo69U: Downloading m3u8 information
+[info] _EfZAOjo69U: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 82 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PTjOWm3p5XM
+[youtube] PTjOWm3p5XM: Downloading webpage
+[youtube] PTjOWm3p5XM: Downloading tv client config
+[youtube] PTjOWm3p5XM: Downloading tv player API JSON
+[youtube] PTjOWm3p5XM: Downloading ios player API JSON
+[youtube] PTjOWm3p5XM: Downloading m3u8 information
+[info] PTjOWm3p5XM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 83 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5dYirJj0I9M
+[youtube] 5dYirJj0I9M: Downloading webpage
+[youtube] 5dYirJj0I9M: Downloading tv client config
+[youtube] 5dYirJj0I9M: Downloading tv player API JSON
+[youtube] 5dYirJj0I9M: Downloading ios player API JSON
+[youtube] 5dYirJj0I9M: Downloading m3u8 information
+[info] 5dYirJj0I9M: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 84 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uuCFRaFWjwY
+[youtube] uuCFRaFWjwY: Downloading webpage
+[youtube] uuCFRaFWjwY: Downloading tv client config
+[youtube] uuCFRaFWjwY: Downloading tv player API JSON
+[youtube] uuCFRaFWjwY: Downloading ios player API JSON
+[youtube] uuCFRaFWjwY: Downloading m3u8 information
+[info] uuCFRaFWjwY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 85 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QwL0rLScmyU
+[youtube] QwL0rLScmyU: Downloading webpage
+[youtube] QwL0rLScmyU: Downloading tv client config
+[youtube] QwL0rLScmyU: Downloading tv player API JSON
+[youtube] QwL0rLScmyU: Downloading ios player API JSON
+[youtube] QwL0rLScmyU: Downloading m3u8 information
+[info] QwL0rLScmyU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 86 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MhXCj8E9CZU
+[youtube] MhXCj8E9CZU: Downloading webpage
+[youtube] MhXCj8E9CZU: Downloading tv client config
+[youtube] MhXCj8E9CZU: Downloading tv player API JSON
+[youtube] MhXCj8E9CZU: Downloading ios player API JSON
+[youtube] MhXCj8E9CZU: Downloading m3u8 information
+[info] MhXCj8E9CZU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 87 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5Eqb_-j3FDA
+[youtube] 5Eqb_-j3FDA: Downloading webpage
+[youtube] 5Eqb_-j3FDA: Downloading tv client config
+[youtube] 5Eqb_-j3FDA: Downloading tv player API JSON
+[youtube] 5Eqb_-j3FDA: Downloading ios player API JSON
+[youtube] 5Eqb_-j3FDA: Downloading m3u8 information
+[info] 5Eqb_-j3FDA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 88 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JRKk7gxcpMc
+[youtube] JRKk7gxcpMc: Downloading webpage
+[youtube] JRKk7gxcpMc: Downloading tv client config
+[youtube] JRKk7gxcpMc: Downloading tv player API JSON
+[youtube] JRKk7gxcpMc: Downloading ios player API JSON
+[youtube] JRKk7gxcpMc: Downloading m3u8 information
+[info] JRKk7gxcpMc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 89 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nSstUsPpRUk
+[youtube] nSstUsPpRUk: Downloading webpage
+[youtube] nSstUsPpRUk: Downloading tv client config
+[youtube] nSstUsPpRUk: Downloading tv player API JSON
+[youtube] nSstUsPpRUk: Downloading ios player API JSON
+[youtube] nSstUsPpRUk: Downloading m3u8 information
+[info] nSstUsPpRUk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 90 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=N8DDpLCASNs
+[youtube] N8DDpLCASNs: Downloading webpage
+[youtube] N8DDpLCASNs: Downloading tv client config
+[youtube] N8DDpLCASNs: Downloading tv player API JSON
+[youtube] N8DDpLCASNs: Downloading ios player API JSON
+[youtube] N8DDpLCASNs: Downloading m3u8 information
+[info] N8DDpLCASNs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 91 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=UKInLPwr7wk
+[youtube] UKInLPwr7wk: Downloading webpage
+[youtube] UKInLPwr7wk: Downloading tv client config
+[youtube] UKInLPwr7wk: Downloading tv player API JSON
+[youtube] UKInLPwr7wk: Downloading ios player API JSON
+[youtube] UKInLPwr7wk: Downloading m3u8 information
+[info] UKInLPwr7wk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 92 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Y_29eVU2eyo
+[youtube] Y_29eVU2eyo: Downloading webpage
+[youtube] Y_29eVU2eyo: Downloading tv client config
+[youtube] Y_29eVU2eyo: Downloading tv player API JSON
+[youtube] Y_29eVU2eyo: Downloading ios player API JSON
+[youtube] Y_29eVU2eyo: Downloading m3u8 information
+[info] Y_29eVU2eyo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 93 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Vx_Wo3VGQFI
+[youtube] Vx_Wo3VGQFI: Downloading webpage
+[youtube] Vx_Wo3VGQFI: Downloading tv client config
+[youtube] Vx_Wo3VGQFI: Downloading tv player API JSON
+[youtube] Vx_Wo3VGQFI: Downloading ios player API JSON
+[youtube] Vx_Wo3VGQFI: Downloading m3u8 information
+[info] Vx_Wo3VGQFI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 94 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HQ9rgpqBLjw
+[youtube] HQ9rgpqBLjw: Downloading webpage
+[youtube] HQ9rgpqBLjw: Downloading tv client config
+[youtube] HQ9rgpqBLjw: Downloading tv player API JSON
+[youtube] HQ9rgpqBLjw: Downloading ios player API JSON
+[youtube] HQ9rgpqBLjw: Downloading m3u8 information
+[info] HQ9rgpqBLjw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 95 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sZZiHK68ZZo
+[youtube] sZZiHK68ZZo: Downloading webpage
+[youtube] sZZiHK68ZZo: Downloading tv client config
+[youtube] sZZiHK68ZZo: Downloading tv player API JSON
+[youtube] sZZiHK68ZZo: Downloading ios player API JSON
+[youtube] sZZiHK68ZZo: Downloading m3u8 information
+[info] sZZiHK68ZZo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 96 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Xy1Pzu1yZGg
+[youtube] Xy1Pzu1yZGg: Downloading webpage
+[youtube] Xy1Pzu1yZGg: Downloading tv client config
+[youtube] Xy1Pzu1yZGg: Downloading tv player API JSON
+[youtube] Xy1Pzu1yZGg: Downloading ios player API JSON
+[youtube] Xy1Pzu1yZGg: Downloading m3u8 information
+[info] Xy1Pzu1yZGg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 97 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xR3V5Ow2dTI
+[youtube] xR3V5Ow2dTI: Downloading webpage
+[youtube] xR3V5Ow2dTI: Downloading tv client config
+[youtube] xR3V5Ow2dTI: Downloading tv player API JSON
+[youtube] xR3V5Ow2dTI: Downloading ios player API JSON
+[youtube] xR3V5Ow2dTI: Downloading m3u8 information
+[info] xR3V5Ow2dTI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 98 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=bsvmj3521Vs
+[youtube] bsvmj3521Vs: Downloading webpage
+[youtube] bsvmj3521Vs: Downloading tv client config
+[youtube] bsvmj3521Vs: Downloading tv player API JSON
+[youtube] bsvmj3521Vs: Downloading ios player API JSON
+[youtube] bsvmj3521Vs: Downloading m3u8 information
+[info] bsvmj3521Vs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 99 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TU1HQnU_9ME
+[youtube] TU1HQnU_9ME: Downloading webpage
+[youtube] TU1HQnU_9ME: Downloading tv client config
+[youtube] TU1HQnU_9ME: Downloading tv player API JSON
+[youtube] TU1HQnU_9ME: Downloading ios player API JSON
+[youtube] TU1HQnU_9ME: Downloading m3u8 information
+[info] TU1HQnU_9ME: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 100 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qk2WMmiiVFE
+[youtube] qk2WMmiiVFE: Downloading webpage
+[youtube] qk2WMmiiVFE: Downloading tv client config
+[youtube] qk2WMmiiVFE: Downloading tv player API JSON
+[youtube] qk2WMmiiVFE: Downloading ios player API JSON
+[youtube] qk2WMmiiVFE: Downloading m3u8 information
+[info] qk2WMmiiVFE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 101 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=k85UB5b6pJU
+[youtube] k85UB5b6pJU: Downloading webpage
+[youtube] k85UB5b6pJU: Downloading tv client config
+[youtube] k85UB5b6pJU: Downloading tv player API JSON
+[youtube] k85UB5b6pJU: Downloading ios player API JSON
+[youtube] k85UB5b6pJU: Downloading m3u8 information
+[info] k85UB5b6pJU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 102 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0pWsCiBvLOk
+[youtube] 0pWsCiBvLOk: Downloading webpage
+[youtube] 0pWsCiBvLOk: Downloading tv client config
+[youtube] 0pWsCiBvLOk: Downloading tv player API JSON
+[youtube] 0pWsCiBvLOk: Downloading ios player API JSON
+[youtube] 0pWsCiBvLOk: Downloading m3u8 information
+[info] 0pWsCiBvLOk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 103 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IAvw60x0Kn4
+[youtube] IAvw60x0Kn4: Downloading webpage
+[youtube] IAvw60x0Kn4: Downloading tv client config
+[youtube] IAvw60x0Kn4: Downloading tv player API JSON
+[youtube] IAvw60x0Kn4: Downloading ios player API JSON
+[youtube] IAvw60x0Kn4: Downloading m3u8 information
+[info] IAvw60x0Kn4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 104 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=fpc3cdpVc9M
+[youtube] fpc3cdpVc9M: Downloading webpage
+[youtube] fpc3cdpVc9M: Downloading tv client config
+[youtube] fpc3cdpVc9M: Downloading tv player API JSON
+[youtube] fpc3cdpVc9M: Downloading ios player API JSON
+[youtube] fpc3cdpVc9M: Downloading m3u8 information
+[info] fpc3cdpVc9M: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 105 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=aRzbHxJZSTo
+[youtube] aRzbHxJZSTo: Downloading webpage
+[youtube] aRzbHxJZSTo: Downloading tv client config
+[youtube] aRzbHxJZSTo: Downloading tv player API JSON
+[youtube] aRzbHxJZSTo: Downloading ios player API JSON
+[youtube] aRzbHxJZSTo: Downloading m3u8 information
+[info] aRzbHxJZSTo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 106 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=X464tZQi6Is
+[youtube] X464tZQi6Is: Downloading webpage
+[youtube] X464tZQi6Is: Downloading tv client config
+[youtube] X464tZQi6Is: Downloading tv player API JSON
+[youtube] X464tZQi6Is: Downloading ios player API JSON
+[youtube] X464tZQi6Is: Downloading m3u8 information
+[info] X464tZQi6Is: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 107 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=t1WS6pG4zIY
+[youtube] t1WS6pG4zIY: Downloading webpage
+[youtube] t1WS6pG4zIY: Downloading tv client config
+[youtube] t1WS6pG4zIY: Downloading tv player API JSON
+[youtube] t1WS6pG4zIY: Downloading ios player API JSON
+[youtube] t1WS6pG4zIY: Downloading m3u8 information
+[info] t1WS6pG4zIY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 108 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=V2Ds8Lifz08
+[youtube] V2Ds8Lifz08: Downloading webpage
+[youtube] V2Ds8Lifz08: Downloading tv client config
+[youtube] V2Ds8Lifz08: Downloading tv player API JSON
+[youtube] V2Ds8Lifz08: Downloading ios player API JSON
+[youtube] V2Ds8Lifz08: Downloading m3u8 information
+[info] V2Ds8Lifz08: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 109 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=DXCd7Moy3to
+[youtube] DXCd7Moy3to: Downloading webpage
+[youtube] DXCd7Moy3to: Downloading tv client config
+[youtube] DXCd7Moy3to: Downloading tv player API JSON
+[youtube] DXCd7Moy3to: Downloading ios player API JSON
+[youtube] DXCd7Moy3to: Downloading m3u8 information
+[info] DXCd7Moy3to: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 110 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zIvKigQ9cVY
+[youtube] zIvKigQ9cVY: Downloading webpage
+[youtube] zIvKigQ9cVY: Downloading tv client config
+[youtube] zIvKigQ9cVY: Downloading tv player API JSON
+[youtube] zIvKigQ9cVY: Downloading ios player API JSON
+[youtube] zIvKigQ9cVY: Downloading m3u8 information
+[info] zIvKigQ9cVY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 111 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MyYAglA_Cdk
+[youtube] MyYAglA_Cdk: Downloading webpage
+[youtube] MyYAglA_Cdk: Downloading tv client config
+[youtube] MyYAglA_Cdk: Downloading tv player API JSON
+[youtube] MyYAglA_Cdk: Downloading ios player API JSON
+[youtube] MyYAglA_Cdk: Downloading m3u8 information
+[info] MyYAglA_Cdk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 112 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5ZKLM5pNoGQ
+[youtube] 5ZKLM5pNoGQ: Downloading webpage
+[youtube] 5ZKLM5pNoGQ: Downloading tv client config
+[youtube] 5ZKLM5pNoGQ: Downloading tv player API JSON
+[youtube] 5ZKLM5pNoGQ: Downloading ios player API JSON
+[youtube] 5ZKLM5pNoGQ: Downloading m3u8 information
+[info] 5ZKLM5pNoGQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 113 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vX2cDW8LUWk
+[youtube] vX2cDW8LUWk: Downloading webpage
+[youtube] vX2cDW8LUWk: Downloading tv client config
+[youtube] vX2cDW8LUWk: Downloading tv player API JSON
+[youtube] vX2cDW8LUWk: Downloading ios player API JSON
+[youtube] vX2cDW8LUWk: Downloading m3u8 information
+[info] vX2cDW8LUWk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 114 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ciLGHX_mq48
+[youtube] ciLGHX_mq48: Downloading webpage
+[youtube] ciLGHX_mq48: Downloading tv client config
+[youtube] ciLGHX_mq48: Downloading tv player API JSON
+[youtube] ciLGHX_mq48: Downloading ios player API JSON
+[youtube] ciLGHX_mq48: Downloading m3u8 information
+[info] ciLGHX_mq48: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 115 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jADTdg-o8i0
+[youtube] jADTdg-o8i0: Downloading webpage
+[youtube] jADTdg-o8i0: Downloading tv client config
+[youtube] jADTdg-o8i0: Downloading tv player API JSON
+[youtube] jADTdg-o8i0: Downloading ios player API JSON
+[youtube] jADTdg-o8i0: Downloading m3u8 information
+[info] jADTdg-o8i0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 116 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MXprAR_7Omc
+[youtube] MXprAR_7Omc: Downloading webpage
+[youtube] MXprAR_7Omc: Downloading tv client config
+[youtube] MXprAR_7Omc: Downloading tv player API JSON
+[youtube] MXprAR_7Omc: Downloading ios player API JSON
+[youtube] MXprAR_7Omc: Downloading m3u8 information
+[info] MXprAR_7Omc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 117 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6x8HVdS_TJs
+[youtube] 6x8HVdS_TJs: Downloading webpage
+[youtube] 6x8HVdS_TJs: Downloading tv client config
+[youtube] 6x8HVdS_TJs: Downloading tv player API JSON
+[youtube] 6x8HVdS_TJs: Downloading ios player API JSON
+[youtube] 6x8HVdS_TJs: Downloading m3u8 information
+[info] 6x8HVdS_TJs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 118 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ilNt2bikxDI
+[youtube] ilNt2bikxDI: Downloading webpage
+[youtube] ilNt2bikxDI: Downloading tv client config
+[youtube] ilNt2bikxDI: Downloading tv player API JSON
+[youtube] ilNt2bikxDI: Downloading ios player API JSON
+[youtube] ilNt2bikxDI: Downloading m3u8 information
+[info] ilNt2bikxDI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 119 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ppf6AhWoyw4
+[youtube] Ppf6AhWoyw4: Downloading webpage
+[youtube] Ppf6AhWoyw4: Downloading tv client config
+[youtube] Ppf6AhWoyw4: Downloading tv player API JSON
+[youtube] Ppf6AhWoyw4: Downloading ios player API JSON
+[youtube] Ppf6AhWoyw4: Downloading m3u8 information
+[info] Ppf6AhWoyw4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 120 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=s1TBzhmt1vU
+[youtube] s1TBzhmt1vU: Downloading webpage
+[youtube] s1TBzhmt1vU: Downloading tv client config
+[youtube] s1TBzhmt1vU: Downloading tv player API JSON
+[youtube] s1TBzhmt1vU: Downloading ios player API JSON
+[youtube] s1TBzhmt1vU: Downloading m3u8 information
+[info] s1TBzhmt1vU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 121 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Y5HIqjf3rek
+[youtube] Y5HIqjf3rek: Downloading webpage
+[youtube] Y5HIqjf3rek: Downloading tv client config
+[youtube] Y5HIqjf3rek: Downloading tv player API JSON
+[youtube] Y5HIqjf3rek: Downloading ios player API JSON
+[youtube] Y5HIqjf3rek: Downloading m3u8 information
+[info] Y5HIqjf3rek: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 122 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=6RrEQJNZwPQ
+[youtube] 6RrEQJNZwPQ: Downloading webpage
+[youtube] 6RrEQJNZwPQ: Downloading tv client config
+[youtube] 6RrEQJNZwPQ: Downloading tv player API JSON
+[youtube] 6RrEQJNZwPQ: Downloading ios player API JSON
+[youtube] 6RrEQJNZwPQ: Downloading m3u8 information
+[info] 6RrEQJNZwPQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 123 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NsWy4kxQ9cE
+[youtube] NsWy4kxQ9cE: Downloading webpage
+[youtube] NsWy4kxQ9cE: Downloading tv client config
+[youtube] NsWy4kxQ9cE: Downloading tv player API JSON
+[youtube] NsWy4kxQ9cE: Downloading ios player API JSON
+[youtube] NsWy4kxQ9cE: Downloading m3u8 information
+[info] NsWy4kxQ9cE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 124 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mv3zNmo_yRA
+[youtube] mv3zNmo_yRA: Downloading webpage
+[youtube] mv3zNmo_yRA: Downloading tv client config
+[youtube] mv3zNmo_yRA: Downloading tv player API JSON
+[youtube] mv3zNmo_yRA: Downloading ios player API JSON
+[youtube] mv3zNmo_yRA: Downloading m3u8 information
+[info] mv3zNmo_yRA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 125 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Sc0azslzhu0
+[youtube] Sc0azslzhu0: Downloading webpage
+[youtube] Sc0azslzhu0: Downloading tv client config
+[youtube] Sc0azslzhu0: Downloading tv player API JSON
+[youtube] Sc0azslzhu0: Downloading ios player API JSON
+[youtube] Sc0azslzhu0: Downloading m3u8 information
+[info] Sc0azslzhu0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 126 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pg2tsJErYH4
+[youtube] pg2tsJErYH4: Downloading webpage
+[youtube] pg2tsJErYH4: Downloading tv client config
+[youtube] pg2tsJErYH4: Downloading tv player API JSON
+[youtube] pg2tsJErYH4: Downloading ios player API JSON
+[youtube] pg2tsJErYH4: Downloading m3u8 information
+[info] pg2tsJErYH4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 127 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SP-lxS8viGU
+[youtube] SP-lxS8viGU: Downloading webpage
+[youtube] SP-lxS8viGU: Downloading tv client config
+[youtube] SP-lxS8viGU: Downloading tv player API JSON
+[youtube] SP-lxS8viGU: Downloading ios player API JSON
+[youtube] SP-lxS8viGU: Downloading m3u8 information
+[info] SP-lxS8viGU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 128 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2VYu3aUHq0Y
+[youtube] 2VYu3aUHq0Y: Downloading webpage
+[youtube] 2VYu3aUHq0Y: Downloading tv client config
+[youtube] 2VYu3aUHq0Y: Downloading tv player API JSON
+[youtube] 2VYu3aUHq0Y: Downloading ios player API JSON
+[youtube] 2VYu3aUHq0Y: Downloading m3u8 information
+[info] 2VYu3aUHq0Y: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 129 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lTOgius_my0
+[youtube] lTOgius_my0: Downloading webpage
+[youtube] lTOgius_my0: Downloading tv client config
+[youtube] lTOgius_my0: Downloading tv player API JSON
+[youtube] lTOgius_my0: Downloading ios player API JSON
+[youtube] lTOgius_my0: Downloading m3u8 information
+[info] lTOgius_my0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 130 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Ld7UO-sQdF0
+[youtube] Ld7UO-sQdF0: Downloading webpage
+[youtube] Ld7UO-sQdF0: Downloading tv client config
+[youtube] Ld7UO-sQdF0: Downloading tv player API JSON
+[youtube] Ld7UO-sQdF0: Downloading ios player API JSON
+[youtube] Ld7UO-sQdF0: Downloading m3u8 information
+[info] Ld7UO-sQdF0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 131 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=aqHYiS3RFBo
+[youtube] aqHYiS3RFBo: Downloading webpage
+[youtube] aqHYiS3RFBo: Downloading tv client config
+[youtube] aqHYiS3RFBo: Downloading tv player API JSON
+[youtube] aqHYiS3RFBo: Downloading ios player API JSON
+[youtube] aqHYiS3RFBo: Downloading m3u8 information
+[info] aqHYiS3RFBo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 132 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=oLzLSQZRZj4
+[youtube] oLzLSQZRZj4: Downloading webpage
+[youtube] oLzLSQZRZj4: Downloading tv client config
+[youtube] oLzLSQZRZj4: Downloading tv player API JSON
+[youtube] oLzLSQZRZj4: Downloading ios player API JSON
+[youtube] oLzLSQZRZj4: Downloading m3u8 information
+[info] oLzLSQZRZj4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 133 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=XCIYHCXQoxQ
+[youtube] XCIYHCXQoxQ: Downloading webpage
+[youtube] XCIYHCXQoxQ: Downloading tv client config
+[youtube] XCIYHCXQoxQ: Downloading tv player API JSON
+[youtube] XCIYHCXQoxQ: Downloading ios player API JSON
+[youtube] XCIYHCXQoxQ: Downloading m3u8 information
+[info] XCIYHCXQoxQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 134 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SeS00eJnguo
+[youtube] SeS00eJnguo: Downloading webpage
+[youtube] SeS00eJnguo: Downloading tv client config
+[youtube] SeS00eJnguo: Downloading tv player API JSON
+[youtube] SeS00eJnguo: Downloading ios player API JSON
+[youtube] SeS00eJnguo: Downloading m3u8 information
+[info] SeS00eJnguo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 135 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rSxTumD4kew
+[youtube] rSxTumD4kew: Downloading webpage
+[youtube] rSxTumD4kew: Downloading tv client config
+[youtube] rSxTumD4kew: Downloading tv player API JSON
+[youtube] rSxTumD4kew: Downloading ios player API JSON
+[youtube] rSxTumD4kew: Downloading m3u8 information
+[info] rSxTumD4kew: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 136 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7DPcBQ1sjX4
+[youtube] 7DPcBQ1sjX4: Downloading webpage
+[youtube] 7DPcBQ1sjX4: Downloading tv client config
+[youtube] 7DPcBQ1sjX4: Downloading tv player API JSON
+[youtube] 7DPcBQ1sjX4: Downloading ios player API JSON
+[youtube] 7DPcBQ1sjX4: Downloading m3u8 information
+[info] 7DPcBQ1sjX4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 137 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SiKfBBoF51w
+[youtube] SiKfBBoF51w: Downloading webpage
+[youtube] SiKfBBoF51w: Downloading tv client config
+[youtube] SiKfBBoF51w: Downloading tv player API JSON
+[youtube] SiKfBBoF51w: Downloading ios player API JSON
+[youtube] SiKfBBoF51w: Downloading m3u8 information
+[info] SiKfBBoF51w: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 138 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rkC3t376MkQ
+[youtube] rkC3t376MkQ: Downloading webpage
+[youtube] rkC3t376MkQ: Downloading tv client config
+[youtube] rkC3t376MkQ: Downloading tv player API JSON
+[youtube] rkC3t376MkQ: Downloading ios player API JSON
+[youtube] rkC3t376MkQ: Downloading m3u8 information
+[info] rkC3t376MkQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 139 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Zrt77f7nTqY
+[youtube] Zrt77f7nTqY: Downloading webpage
+[youtube] Zrt77f7nTqY: Downloading tv client config
+[youtube] Zrt77f7nTqY: Downloading tv player API JSON
+[youtube] Zrt77f7nTqY: Downloading ios player API JSON
+[youtube] Zrt77f7nTqY: Downloading m3u8 information
+[info] Zrt77f7nTqY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 140 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cWMxCE2HTag
+[youtube] cWMxCE2HTag: Downloading webpage
+[youtube] cWMxCE2HTag: Downloading tv client config
+[youtube] cWMxCE2HTag: Downloading tv player API JSON
+[youtube] cWMxCE2HTag: Downloading ios player API JSON
+[youtube] cWMxCE2HTag: Downloading m3u8 information
+[info] cWMxCE2HTag: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 141 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=AKH6ZNSnWOA
+[youtube] AKH6ZNSnWOA: Downloading webpage
+[youtube] AKH6ZNSnWOA: Downloading tv client config
+[youtube] AKH6ZNSnWOA: Downloading tv player API JSON
+[youtube] AKH6ZNSnWOA: Downloading ios player API JSON
+[youtube] AKH6ZNSnWOA: Downloading m3u8 information
+[info] AKH6ZNSnWOA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 142 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_XBVWlI8TsQ
+[youtube] _XBVWlI8TsQ: Downloading webpage
+[youtube] _XBVWlI8TsQ: Downloading tv client config
+[youtube] _XBVWlI8TsQ: Downloading tv player API JSON
+[youtube] _XBVWlI8TsQ: Downloading ios player API JSON
+[youtube] _XBVWlI8TsQ: Downloading m3u8 information
+[info] _XBVWlI8TsQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 143 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QxddU3sjVRY
+[youtube] QxddU3sjVRY: Downloading webpage
+[youtube] QxddU3sjVRY: Downloading tv client config
+[youtube] QxddU3sjVRY: Downloading tv player API JSON
+[youtube] QxddU3sjVRY: Downloading ios player API JSON
+[youtube] QxddU3sjVRY: Downloading m3u8 information
+[info] QxddU3sjVRY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 144 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EiiOYwqk3A0
+[youtube] EiiOYwqk3A0: Downloading webpage
+[youtube] EiiOYwqk3A0: Downloading tv client config
+[youtube] EiiOYwqk3A0: Downloading tv player API JSON
+[youtube] EiiOYwqk3A0: Downloading ios player API JSON
+[youtube] EiiOYwqk3A0: Downloading m3u8 information
+[info] EiiOYwqk3A0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 145 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gPpQNzQP6gE
+[youtube] gPpQNzQP6gE: Downloading webpage
+[youtube] gPpQNzQP6gE: Downloading tv client config
+[youtube] gPpQNzQP6gE: Downloading tv player API JSON
+[youtube] gPpQNzQP6gE: Downloading ios player API JSON
+[youtube] gPpQNzQP6gE: Downloading m3u8 information
+[info] gPpQNzQP6gE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 146 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gJLVTKhTnog
+[youtube] gJLVTKhTnog: Downloading webpage
+[youtube] gJLVTKhTnog: Downloading tv client config
+[youtube] gJLVTKhTnog: Downloading tv player API JSON
+[youtube] gJLVTKhTnog: Downloading ios player API JSON
+[youtube] gJLVTKhTnog: Downloading m3u8 information
+[info] gJLVTKhTnog: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 147 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2FhgKp_lfJQ
+[youtube] 2FhgKp_lfJQ: Downloading webpage
+[youtube] 2FhgKp_lfJQ: Downloading tv client config
+[youtube] 2FhgKp_lfJQ: Downloading tv player API JSON
+[youtube] 2FhgKp_lfJQ: Downloading ios player API JSON
+[youtube] 2FhgKp_lfJQ: Downloading m3u8 information
+[info] 2FhgKp_lfJQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 148 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zgaCZOQCpp8
+[youtube] zgaCZOQCpp8: Downloading webpage
+[youtube] zgaCZOQCpp8: Downloading tv client config
+[youtube] zgaCZOQCpp8: Downloading tv player API JSON
+[youtube] zgaCZOQCpp8: Downloading ios player API JSON
+[youtube] zgaCZOQCpp8: Downloading m3u8 information
+[info] zgaCZOQCpp8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 149 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=KNxv88wUgnM
+[youtube] KNxv88wUgnM: Downloading webpage
+[youtube] KNxv88wUgnM: Downloading tv client config
+[youtube] KNxv88wUgnM: Downloading tv player API JSON
+[youtube] KNxv88wUgnM: Downloading ios player API JSON
+[youtube] KNxv88wUgnM: Downloading m3u8 information
+[info] KNxv88wUgnM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 150 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SIKfOHdkiyY
+[youtube] SIKfOHdkiyY: Downloading webpage
+[youtube] SIKfOHdkiyY: Downloading tv client config
+[youtube] SIKfOHdkiyY: Downloading tv player API JSON
+[youtube] SIKfOHdkiyY: Downloading ios player API JSON
+[youtube] SIKfOHdkiyY: Downloading m3u8 information
+[info] SIKfOHdkiyY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 151 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Qwm6BSGrOq0
+[youtube] Qwm6BSGrOq0: Downloading webpage
+[youtube] Qwm6BSGrOq0: Downloading tv client config
+[youtube] Qwm6BSGrOq0: Downloading tv player API JSON
+[youtube] Qwm6BSGrOq0: Downloading ios player API JSON
+[youtube] Qwm6BSGrOq0: Downloading m3u8 information
+[info] Qwm6BSGrOq0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 152 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xEALTVLxrDw
+[youtube] xEALTVLxrDw: Downloading webpage
+[youtube] xEALTVLxrDw: Downloading tv client config
+[youtube] xEALTVLxrDw: Downloading tv player API JSON
+[youtube] xEALTVLxrDw: Downloading ios player API JSON
+[youtube] xEALTVLxrDw: Downloading m3u8 information
+[info] xEALTVLxrDw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 153 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hp_labuiDHY
+[youtube] hp_labuiDHY: Downloading webpage
+[youtube] hp_labuiDHY: Downloading tv client config
+[youtube] hp_labuiDHY: Downloading tv player API JSON
+[youtube] hp_labuiDHY: Downloading ios player API JSON
+[youtube] hp_labuiDHY: Downloading m3u8 information
+[info] hp_labuiDHY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 154 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-6Yj7nscens
+[youtube] -6Yj7nscens: Downloading webpage
+[youtube] -6Yj7nscens: Downloading tv client config
+[youtube] -6Yj7nscens: Downloading tv player API JSON
+[youtube] -6Yj7nscens: Downloading ios player API JSON
+[youtube] -6Yj7nscens: Downloading m3u8 information
+[info] -6Yj7nscens: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 155 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=fNiPOqHTB6M
+[youtube] fNiPOqHTB6M: Downloading webpage
+[youtube] fNiPOqHTB6M: Downloading tv client config
+[youtube] fNiPOqHTB6M: Downloading tv player API JSON
+[youtube] fNiPOqHTB6M: Downloading ios player API JSON
+[youtube] fNiPOqHTB6M: Downloading m3u8 information
+[info] fNiPOqHTB6M: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 156 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GgmFC8y8q3k
+[youtube] GgmFC8y8q3k: Downloading webpage
+[youtube] GgmFC8y8q3k: Downloading tv client config
+[youtube] GgmFC8y8q3k: Downloading tv player API JSON
+[youtube] GgmFC8y8q3k: Downloading ios player API JSON
+[youtube] GgmFC8y8q3k: Downloading m3u8 information
+[info] GgmFC8y8q3k: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 157 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pLQw0DbubdM
+[youtube] pLQw0DbubdM: Downloading webpage
+[youtube] pLQw0DbubdM: Downloading tv client config
+[youtube] pLQw0DbubdM: Downloading tv player API JSON
+[youtube] pLQw0DbubdM: Downloading ios player API JSON
+[youtube] pLQw0DbubdM: Downloading m3u8 information
+[info] pLQw0DbubdM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 158 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IdML5RUzx34
+[youtube] IdML5RUzx34: Downloading webpage
+[youtube] IdML5RUzx34: Downloading tv client config
+[youtube] IdML5RUzx34: Downloading tv player API JSON
+[youtube] IdML5RUzx34: Downloading ios player API JSON
+[youtube] IdML5RUzx34: Downloading m3u8 information
+[info] IdML5RUzx34: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 159 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-CJ3_0vyzNs
+[youtube] -CJ3_0vyzNs: Downloading webpage
+[youtube] -CJ3_0vyzNs: Downloading tv client config
+[youtube] -CJ3_0vyzNs: Downloading tv player API JSON
+[youtube] -CJ3_0vyzNs: Downloading ios player API JSON
+[youtube] -CJ3_0vyzNs: Downloading m3u8 information
+[info] -CJ3_0vyzNs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 160 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=eLPaDNdBbcU
+[youtube] eLPaDNdBbcU: Downloading webpage
+[youtube] eLPaDNdBbcU: Downloading tv client config
+[youtube] eLPaDNdBbcU: Downloading tv player API JSON
+[youtube] eLPaDNdBbcU: Downloading ios player API JSON
+[youtube] eLPaDNdBbcU: Downloading m3u8 information
+[info] eLPaDNdBbcU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 161 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_aM9_HNShwE
+[youtube] _aM9_HNShwE: Downloading webpage
+[youtube] _aM9_HNShwE: Downloading tv client config
+[youtube] _aM9_HNShwE: Downloading tv player API JSON
+[youtube] _aM9_HNShwE: Downloading ios player API JSON
+[youtube] _aM9_HNShwE: Downloading m3u8 information
+[info] _aM9_HNShwE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 162 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vV29XAmYSXw
+[youtube] vV29XAmYSXw: Downloading webpage
+[youtube] vV29XAmYSXw: Downloading tv client config
+[youtube] vV29XAmYSXw: Downloading tv player API JSON
+[youtube] vV29XAmYSXw: Downloading ios player API JSON
+[youtube] vV29XAmYSXw: Downloading m3u8 information
+[info] vV29XAmYSXw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 163 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wDduyqS9gZk
+[youtube] wDduyqS9gZk: Downloading webpage
+[youtube] wDduyqS9gZk: Downloading tv client config
+[youtube] wDduyqS9gZk: Downloading tv player API JSON
+[youtube] wDduyqS9gZk: Downloading ios player API JSON
+[youtube] wDduyqS9gZk: Downloading m3u8 information
+[info] wDduyqS9gZk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 164 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sQiAGGHQnN8
+[youtube] sQiAGGHQnN8: Downloading webpage
+[youtube] sQiAGGHQnN8: Downloading tv client config
+[youtube] sQiAGGHQnN8: Downloading tv player API JSON
+[youtube] sQiAGGHQnN8: Downloading ios player API JSON
+[youtube] sQiAGGHQnN8: Downloading m3u8 information
+[info] sQiAGGHQnN8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 165 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QjMHgw7tGrU
+[youtube] QjMHgw7tGrU: Downloading webpage
+[youtube] QjMHgw7tGrU: Downloading tv client config
+[youtube] QjMHgw7tGrU: Downloading tv player API JSON
+[youtube] QjMHgw7tGrU: Downloading ios player API JSON
+[youtube] QjMHgw7tGrU: Downloading m3u8 information
+[info] QjMHgw7tGrU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 166 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=kyjg5kX4pT0
+[youtube] kyjg5kX4pT0: Downloading webpage
+[youtube] kyjg5kX4pT0: Downloading tv client config
+[youtube] kyjg5kX4pT0: Downloading tv player API JSON
+[youtube] kyjg5kX4pT0: Downloading ios player API JSON
+[youtube] kyjg5kX4pT0: Downloading m3u8 information
+[info] kyjg5kX4pT0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 167 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=E_SbwSe15y0
+[youtube] E_SbwSe15y0: Downloading webpage
+[youtube] E_SbwSe15y0: Downloading tv client config
+[youtube] E_SbwSe15y0: Downloading tv player API JSON
+[youtube] E_SbwSe15y0: Downloading ios player API JSON
+[youtube] E_SbwSe15y0: Downloading m3u8 information
+[info] E_SbwSe15y0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 168 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iAIBF2ngbWY
+[youtube] iAIBF2ngbWY: Downloading webpage
+[youtube] iAIBF2ngbWY: Downloading tv client config
+[youtube] iAIBF2ngbWY: Downloading tv player API JSON
+[youtube] iAIBF2ngbWY: Downloading ios player API JSON
+[youtube] iAIBF2ngbWY: Downloading m3u8 information
+[info] iAIBF2ngbWY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 169 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NeXbmEnpSz0
+[youtube] NeXbmEnpSz0: Downloading webpage
+[youtube] NeXbmEnpSz0: Downloading tv client config
+[youtube] NeXbmEnpSz0: Downloading tv player API JSON
+[youtube] NeXbmEnpSz0: Downloading ios player API JSON
+[youtube] NeXbmEnpSz0: Downloading m3u8 information
+[info] NeXbmEnpSz0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 170 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VAdGW7QDJiU
+[youtube] VAdGW7QDJiU: Downloading webpage
+[youtube] VAdGW7QDJiU: Downloading tv client config
+[youtube] VAdGW7QDJiU: Downloading tv player API JSON
+[youtube] VAdGW7QDJiU: Downloading ios player API JSON
+[youtube] VAdGW7QDJiU: Downloading m3u8 information
+[info] VAdGW7QDJiU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 171 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tII3e_Rn_vo
+[youtube] tII3e_Rn_vo: Downloading webpage
+[youtube] tII3e_Rn_vo: Downloading tv client config
+[youtube] tII3e_Rn_vo: Downloading tv player API JSON
+[youtube] tII3e_Rn_vo: Downloading ios player API JSON
+[youtube] tII3e_Rn_vo: Downloading m3u8 information
+[info] tII3e_Rn_vo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 172 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2L6gsn7rGqI
+[youtube] 2L6gsn7rGqI: Downloading webpage
+[youtube] 2L6gsn7rGqI: Downloading tv client config
+[youtube] 2L6gsn7rGqI: Downloading tv player API JSON
+[youtube] 2L6gsn7rGqI: Downloading ios player API JSON
+[youtube] 2L6gsn7rGqI: Downloading m3u8 information
+[info] 2L6gsn7rGqI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 173 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NAgu8XGIvvE
+[youtube] NAgu8XGIvvE: Downloading webpage
+[youtube] NAgu8XGIvvE: Downloading tv client config
+[youtube] NAgu8XGIvvE: Downloading tv player API JSON
+[youtube] NAgu8XGIvvE: Downloading ios player API JSON
+[youtube] NAgu8XGIvvE: Downloading m3u8 information
+[info] NAgu8XGIvvE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 174 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=n7nGd3FFK8c
+[youtube] n7nGd3FFK8c: Downloading webpage
+[youtube] n7nGd3FFK8c: Downloading tv client config
+[youtube] n7nGd3FFK8c: Downloading tv player API JSON
+[youtube] n7nGd3FFK8c: Downloading ios player API JSON
+[youtube] n7nGd3FFK8c: Downloading m3u8 information
+[info] n7nGd3FFK8c: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 175 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=s7-GTShjcqY
+[youtube] s7-GTShjcqY: Downloading webpage
+[youtube] s7-GTShjcqY: Downloading tv client config
+[youtube] s7-GTShjcqY: Downloading tv player API JSON
+[youtube] s7-GTShjcqY: Downloading ios player API JSON
+[youtube] s7-GTShjcqY: Downloading m3u8 information
+[info] s7-GTShjcqY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 176 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=F2OVaaKzS8A
+[youtube] F2OVaaKzS8A: Downloading webpage
+[youtube] F2OVaaKzS8A: Downloading tv client config
+[youtube] F2OVaaKzS8A: Downloading tv player API JSON
+[youtube] F2OVaaKzS8A: Downloading ios player API JSON
+[youtube] F2OVaaKzS8A: Downloading m3u8 information
+[info] F2OVaaKzS8A: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 177 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7Ci1I8upS4k
+[youtube] 7Ci1I8upS4k: Downloading webpage
+[youtube] 7Ci1I8upS4k: Downloading tv client config
+[youtube] 7Ci1I8upS4k: Downloading tv player API JSON
+[youtube] 7Ci1I8upS4k: Downloading ios player API JSON
+[youtube] 7Ci1I8upS4k: Downloading m3u8 information
+[info] 7Ci1I8upS4k: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 178 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=oUlwIrAuLAQ
+[youtube] oUlwIrAuLAQ: Downloading webpage
+[youtube] oUlwIrAuLAQ: Downloading tv client config
+[youtube] oUlwIrAuLAQ: Downloading tv player API JSON
+[youtube] oUlwIrAuLAQ: Downloading ios player API JSON
+[youtube] oUlwIrAuLAQ: Downloading m3u8 information
+[info] oUlwIrAuLAQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 179 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xQsHpqDTL-o
+[youtube] xQsHpqDTL-o: Downloading webpage
+[youtube] xQsHpqDTL-o: Downloading tv client config
+[youtube] xQsHpqDTL-o: Downloading tv player API JSON
+[youtube] xQsHpqDTL-o: Downloading ios player API JSON
+[youtube] xQsHpqDTL-o: Downloading m3u8 information
+[info] xQsHpqDTL-o: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 180 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xNVXWHt9JjY
+[youtube] xNVXWHt9JjY: Downloading webpage
+[youtube] xNVXWHt9JjY: Downloading tv client config
+[youtube] xNVXWHt9JjY: Downloading tv player API JSON
+[youtube] xNVXWHt9JjY: Downloading ios player API JSON
+[youtube] xNVXWHt9JjY: Downloading m3u8 information
+[info] xNVXWHt9JjY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 181 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_loZYFL5Aw0
+[youtube] _loZYFL5Aw0: Downloading webpage
+[youtube] _loZYFL5Aw0: Downloading tv client config
+[youtube] _loZYFL5Aw0: Downloading tv player API JSON
+[youtube] _loZYFL5Aw0: Downloading ios player API JSON
+[youtube] _loZYFL5Aw0: Downloading m3u8 information
+[info] _loZYFL5Aw0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 182 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RLNbtjTtHxQ
+[youtube] RLNbtjTtHxQ: Downloading webpage
+[youtube] RLNbtjTtHxQ: Downloading tv client config
+[youtube] RLNbtjTtHxQ: Downloading tv player API JSON
+[youtube] RLNbtjTtHxQ: Downloading ios player API JSON
+[youtube] RLNbtjTtHxQ: Downloading m3u8 information
+[info] RLNbtjTtHxQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 183 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tKxEykeh6TU
+[youtube] tKxEykeh6TU: Downloading webpage
+[youtube] tKxEykeh6TU: Downloading tv client config
+[youtube] tKxEykeh6TU: Downloading tv player API JSON
+[youtube] tKxEykeh6TU: Downloading ios player API JSON
+[youtube] tKxEykeh6TU: Downloading m3u8 information
+[info] tKxEykeh6TU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 184 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=H7_yY3yr-jE
+[youtube] H7_yY3yr-jE: Downloading webpage
+[youtube] H7_yY3yr-jE: Downloading tv client config
+[youtube] H7_yY3yr-jE: Downloading tv player API JSON
+[youtube] H7_yY3yr-jE: Downloading ios player API JSON
+[youtube] H7_yY3yr-jE: Downloading m3u8 information
+[info] H7_yY3yr-jE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 185 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BtQp2U6hJII
+[youtube] BtQp2U6hJII: Downloading webpage
+[youtube] BtQp2U6hJII: Downloading tv client config
+[youtube] BtQp2U6hJII: Downloading tv player API JSON
+[youtube] BtQp2U6hJII: Downloading ios player API JSON
+[youtube] BtQp2U6hJII: Downloading m3u8 information
+[info] BtQp2U6hJII: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 186 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-y8hDgDg6iM
+[youtube] -y8hDgDg6iM: Downloading webpage
+[youtube] -y8hDgDg6iM: Downloading tv client config
+[youtube] -y8hDgDg6iM: Downloading tv player API JSON
+[youtube] -y8hDgDg6iM: Downloading ios player API JSON
+[youtube] -y8hDgDg6iM: Downloading m3u8 information
+[info] -y8hDgDg6iM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 187 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ElZfdU54Cp8
+[youtube] ElZfdU54Cp8: Downloading webpage
+[youtube] ElZfdU54Cp8: Downloading tv client config
+[youtube] ElZfdU54Cp8: Downloading tv player API JSON
+[youtube] ElZfdU54Cp8: Downloading ios player API JSON
+[youtube] ElZfdU54Cp8: Downloading m3u8 information
+[info] ElZfdU54Cp8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 188 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HSQbnud22uE
+[youtube] HSQbnud22uE: Downloading webpage
+[youtube] HSQbnud22uE: Downloading tv client config
+[youtube] HSQbnud22uE: Downloading tv player API JSON
+[youtube] HSQbnud22uE: Downloading ios player API JSON
+[youtube] HSQbnud22uE: Downloading m3u8 information
+[info] HSQbnud22uE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 189 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TrlRCyJCe7c
+[youtube] TrlRCyJCe7c: Downloading webpage
+[youtube] TrlRCyJCe7c: Downloading tv client config
+[youtube] TrlRCyJCe7c: Downloading tv player API JSON
+[youtube] TrlRCyJCe7c: Downloading ios player API JSON
+[youtube] TrlRCyJCe7c: Downloading m3u8 information
+[info] TrlRCyJCe7c: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 190 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FcmaxpvkSKo
+[youtube] FcmaxpvkSKo: Downloading webpage
+[youtube] FcmaxpvkSKo: Downloading tv client config
+[youtube] FcmaxpvkSKo: Downloading tv player API JSON
+[youtube] FcmaxpvkSKo: Downloading ios player API JSON
+[youtube] FcmaxpvkSKo: Downloading m3u8 information
+[info] FcmaxpvkSKo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 191 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_m26l4QR66Q
+[youtube] _m26l4QR66Q: Downloading webpage
+[youtube] _m26l4QR66Q: Downloading tv client config
+[youtube] _m26l4QR66Q: Downloading tv player API JSON
+[youtube] _m26l4QR66Q: Downloading ios player API JSON
+[youtube] _m26l4QR66Q: Downloading m3u8 information
+[info] _m26l4QR66Q: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 192 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ZEN3KMdIVZM
+[youtube] ZEN3KMdIVZM: Downloading webpage
+[youtube] ZEN3KMdIVZM: Downloading tv client config
+[youtube] ZEN3KMdIVZM: Downloading tv player API JSON
+[youtube] ZEN3KMdIVZM: Downloading ios player API JSON
+[youtube] ZEN3KMdIVZM: Downloading m3u8 information
+[info] ZEN3KMdIVZM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 193 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RhAGmhQS7BY
+[youtube] RhAGmhQS7BY: Downloading webpage
+[youtube] RhAGmhQS7BY: Downloading tv client config
+[youtube] RhAGmhQS7BY: Downloading tv player API JSON
+[youtube] RhAGmhQS7BY: Downloading ios player API JSON
+[youtube] RhAGmhQS7BY: Downloading m3u8 information
+[info] RhAGmhQS7BY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 194 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=YZAFd9o3RYQ
+[youtube] YZAFd9o3RYQ: Downloading webpage
+[youtube] YZAFd9o3RYQ: Downloading tv client config
+[youtube] YZAFd9o3RYQ: Downloading tv player API JSON
+[youtube] YZAFd9o3RYQ: Downloading ios player API JSON
+[youtube] YZAFd9o3RYQ: Downloading m3u8 information
+[info] YZAFd9o3RYQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 195 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MQDfrFCrafA
+[youtube] MQDfrFCrafA: Downloading webpage
+[youtube] MQDfrFCrafA: Downloading tv client config
+[youtube] MQDfrFCrafA: Downloading tv player API JSON
+[youtube] MQDfrFCrafA: Downloading ios player API JSON
+[youtube] MQDfrFCrafA: Downloading m3u8 information
+[info] MQDfrFCrafA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 196 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=n6XSGFNYw_I
+[youtube] n6XSGFNYw_I: Downloading webpage
+[youtube] n6XSGFNYw_I: Downloading tv client config
+[youtube] n6XSGFNYw_I: Downloading tv player API JSON
+[youtube] n6XSGFNYw_I: Downloading ios player API JSON
+[youtube] n6XSGFNYw_I: Downloading m3u8 information
+[info] n6XSGFNYw_I: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 197 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RzR1-1SQ25s
+[youtube] RzR1-1SQ25s: Downloading webpage
+[youtube] RzR1-1SQ25s: Downloading tv client config
+[youtube] RzR1-1SQ25s: Downloading tv player API JSON
+[youtube] RzR1-1SQ25s: Downloading ios player API JSON
+[youtube] RzR1-1SQ25s: Downloading m3u8 information
+[info] RzR1-1SQ25s: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 198 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IJpe_5XRdFU
+[youtube] IJpe_5XRdFU: Downloading webpage
+[youtube] IJpe_5XRdFU: Downloading tv client config
+[youtube] IJpe_5XRdFU: Downloading tv player API JSON
+[youtube] IJpe_5XRdFU: Downloading ios player API JSON
+[youtube] IJpe_5XRdFU: Downloading m3u8 information
+[info] IJpe_5XRdFU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 199 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=MVXxbI1VbvQ
+[youtube] MVXxbI1VbvQ: Downloading webpage
+[youtube] MVXxbI1VbvQ: Downloading tv client config
+[youtube] MVXxbI1VbvQ: Downloading tv player API JSON
+[youtube] MVXxbI1VbvQ: Downloading ios player API JSON
+[youtube] MVXxbI1VbvQ: Downloading m3u8 information
+[info] MVXxbI1VbvQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 200 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lnQ4xUnGKpE
+[youtube] lnQ4xUnGKpE: Downloading webpage
+[youtube] lnQ4xUnGKpE: Downloading tv client config
+[youtube] lnQ4xUnGKpE: Downloading tv player API JSON
+[youtube] lnQ4xUnGKpE: Downloading ios player API JSON
+[youtube] lnQ4xUnGKpE: Downloading m3u8 information
+[info] lnQ4xUnGKpE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 201 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Rjt-xAAe2KM
+[youtube] Rjt-xAAe2KM: Downloading webpage
+[youtube] Rjt-xAAe2KM: Downloading tv client config
+[youtube] Rjt-xAAe2KM: Downloading tv player API JSON
+[youtube] Rjt-xAAe2KM: Downloading ios player API JSON
+[youtube] Rjt-xAAe2KM: Downloading m3u8 information
+[info] Rjt-xAAe2KM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 202 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_IkVxQN0OSo
+[youtube] _IkVxQN0OSo: Downloading webpage
+[youtube] _IkVxQN0OSo: Downloading tv client config
+[youtube] _IkVxQN0OSo: Downloading tv player API JSON
+[youtube] _IkVxQN0OSo: Downloading ios player API JSON
+[youtube] _IkVxQN0OSo: Downloading m3u8 information
+[info] _IkVxQN0OSo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 203 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yvi8qqsxuN0
+[youtube] Yvi8qqsxuN0: Downloading webpage
+[youtube] Yvi8qqsxuN0: Downloading tv client config
+[youtube] Yvi8qqsxuN0: Downloading tv player API JSON
+[youtube] Yvi8qqsxuN0: Downloading ios player API JSON
+[youtube] Yvi8qqsxuN0: Downloading m3u8 information
+[info] Yvi8qqsxuN0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 204 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=L3bMPjAdi8w
+[youtube] L3bMPjAdi8w: Downloading webpage
+[youtube] L3bMPjAdi8w: Downloading tv client config
+[youtube] L3bMPjAdi8w: Downloading tv player API JSON
+[youtube] L3bMPjAdi8w: Downloading ios player API JSON
+[youtube] L3bMPjAdi8w: Downloading m3u8 information
+[info] L3bMPjAdi8w: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 205 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-bEjT4zQIk8
+[youtube] -bEjT4zQIk8: Downloading webpage
+[youtube] -bEjT4zQIk8: Downloading tv client config
+[youtube] -bEjT4zQIk8: Downloading tv player API JSON
+[youtube] -bEjT4zQIk8: Downloading ios player API JSON
+[youtube] -bEjT4zQIk8: Downloading m3u8 information
+[info] -bEjT4zQIk8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 206 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FEkiZTtMWQw
+[youtube] FEkiZTtMWQw: Downloading webpage
+[youtube] FEkiZTtMWQw: Downloading tv client config
+[youtube] FEkiZTtMWQw: Downloading tv player API JSON
+[youtube] FEkiZTtMWQw: Downloading ios player API JSON
+[youtube] FEkiZTtMWQw: Downloading m3u8 information
+[info] FEkiZTtMWQw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 207 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-zjSIPaHihk
+[youtube] -zjSIPaHihk: Downloading webpage
+[youtube] -zjSIPaHihk: Downloading tv client config
+[youtube] -zjSIPaHihk: Downloading tv player API JSON
+[youtube] -zjSIPaHihk: Downloading ios player API JSON
+[youtube] -zjSIPaHihk: Downloading m3u8 information
+[info] -zjSIPaHihk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 208 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jmXL5kPXbG0
+[youtube] jmXL5kPXbG0: Downloading webpage
+[youtube] jmXL5kPXbG0: Downloading tv client config
+[youtube] jmXL5kPXbG0: Downloading tv player API JSON
+[youtube] jmXL5kPXbG0: Downloading ios player API JSON
+[youtube] jmXL5kPXbG0: Downloading m3u8 information
+[info] jmXL5kPXbG0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 209 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jZlVSvytLn0
+[youtube] jZlVSvytLn0: Downloading webpage
+[youtube] jZlVSvytLn0: Downloading tv client config
+[youtube] jZlVSvytLn0: Downloading tv player API JSON
+[youtube] jZlVSvytLn0: Downloading ios player API JSON
+[youtube] jZlVSvytLn0: Downloading m3u8 information
+[info] jZlVSvytLn0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 210 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=x7Ftg_6YkjM
+[youtube] x7Ftg_6YkjM: Downloading webpage
+[youtube] x7Ftg_6YkjM: Downloading tv client config
+[youtube] x7Ftg_6YkjM: Downloading tv player API JSON
+[youtube] x7Ftg_6YkjM: Downloading ios player API JSON
+[youtube] x7Ftg_6YkjM: Downloading m3u8 information
+[info] x7Ftg_6YkjM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 211 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yWDYj_46NRY
+[youtube] yWDYj_46NRY: Downloading webpage
+[youtube] yWDYj_46NRY: Downloading tv client config
+[youtube] yWDYj_46NRY: Downloading tv player API JSON
+[youtube] yWDYj_46NRY: Downloading ios player API JSON
+[youtube] yWDYj_46NRY: Downloading m3u8 information
+[info] yWDYj_46NRY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 212 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=R1F0Q-uzJ7w
+[youtube] R1F0Q-uzJ7w: Downloading webpage
+[youtube] R1F0Q-uzJ7w: Downloading tv client config
+[youtube] R1F0Q-uzJ7w: Downloading tv player API JSON
+[youtube] R1F0Q-uzJ7w: Downloading ios player API JSON
+[youtube] R1F0Q-uzJ7w: Downloading m3u8 information
+[info] R1F0Q-uzJ7w: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 213 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PmeRiTUS_aU
+[youtube] PmeRiTUS_aU: Downloading webpage
+[youtube] PmeRiTUS_aU: Downloading tv client config
+[youtube] PmeRiTUS_aU: Downloading tv player API JSON
+[youtube] PmeRiTUS_aU: Downloading ios player API JSON
+[youtube] PmeRiTUS_aU: Downloading m3u8 information
+[info] PmeRiTUS_aU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 214 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=aw_2Ij_SyE8
+[youtube] aw_2Ij_SyE8: Downloading webpage
+[youtube] aw_2Ij_SyE8: Downloading tv client config
+[youtube] aw_2Ij_SyE8: Downloading tv player API JSON
+[youtube] aw_2Ij_SyE8: Downloading ios player API JSON
+[youtube] aw_2Ij_SyE8: Downloading m3u8 information
+[info] aw_2Ij_SyE8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 215 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mlo38IM_YMs
+[youtube] mlo38IM_YMs: Downloading webpage
+[youtube] mlo38IM_YMs: Downloading tv client config
+[youtube] mlo38IM_YMs: Downloading tv player API JSON
+[youtube] mlo38IM_YMs: Downloading ios player API JSON
+[youtube] mlo38IM_YMs: Downloading m3u8 information
+[info] mlo38IM_YMs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 216 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9AHzWxfxtbg
+[youtube] 9AHzWxfxtbg: Downloading webpage
+[youtube] 9AHzWxfxtbg: Downloading tv client config
+[youtube] 9AHzWxfxtbg: Downloading tv player API JSON
+[youtube] 9AHzWxfxtbg: Downloading ios player API JSON
+[youtube] 9AHzWxfxtbg: Downloading m3u8 information
+[info] 9AHzWxfxtbg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 217 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TeyMOyDs474
+[youtube] TeyMOyDs474: Downloading webpage
+[youtube] TeyMOyDs474: Downloading tv client config
+[youtube] TeyMOyDs474: Downloading tv player API JSON
+[youtube] TeyMOyDs474: Downloading ios player API JSON
+[youtube] TeyMOyDs474: Downloading m3u8 information
+[info] TeyMOyDs474: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 218 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PjQHwDJ1vlA
+[youtube] PjQHwDJ1vlA: Downloading webpage
+[youtube] PjQHwDJ1vlA: Downloading tv client config
+[youtube] PjQHwDJ1vlA: Downloading tv player API JSON
+[youtube] PjQHwDJ1vlA: Downloading ios player API JSON
+[youtube] PjQHwDJ1vlA: Downloading m3u8 information
+[info] PjQHwDJ1vlA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 219 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=AT6bawYBKlU
+[youtube] AT6bawYBKlU: Downloading webpage
+[youtube] AT6bawYBKlU: Downloading tv client config
+[youtube] AT6bawYBKlU: Downloading tv player API JSON
+[youtube] AT6bawYBKlU: Downloading ios player API JSON
+[youtube] AT6bawYBKlU: Downloading m3u8 information
+[info] AT6bawYBKlU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 220 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3D6bcyBHQqQ
+[youtube] 3D6bcyBHQqQ: Downloading webpage
+[youtube] 3D6bcyBHQqQ: Downloading tv client config
+[youtube] 3D6bcyBHQqQ: Downloading tv player API JSON
+[youtube] 3D6bcyBHQqQ: Downloading ios player API JSON
+[youtube] 3D6bcyBHQqQ: Downloading m3u8 information
+[info] 3D6bcyBHQqQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 221 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TC07_SEt-DA
+[youtube] TC07_SEt-DA: Downloading webpage
+[youtube] TC07_SEt-DA: Downloading tv client config
+[youtube] TC07_SEt-DA: Downloading tv player API JSON
+[youtube] TC07_SEt-DA: Downloading ios player API JSON
+[youtube] TC07_SEt-DA: Downloading m3u8 information
+[info] TC07_SEt-DA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 222 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ybRB6WMm1n4
+[youtube] ybRB6WMm1n4: Downloading webpage
+[youtube] ybRB6WMm1n4: Downloading tv client config
+[youtube] ybRB6WMm1n4: Downloading tv player API JSON
+[youtube] ybRB6WMm1n4: Downloading ios player API JSON
+[youtube] ybRB6WMm1n4: Downloading m3u8 information
+[info] ybRB6WMm1n4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 223 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=58IZuVqGHNo
+[youtube] 58IZuVqGHNo: Downloading webpage
+[youtube] 58IZuVqGHNo: Downloading tv client config
+[youtube] 58IZuVqGHNo: Downloading tv player API JSON
+[youtube] 58IZuVqGHNo: Downloading ios player API JSON
+[youtube] 58IZuVqGHNo: Downloading m3u8 information
+[info] 58IZuVqGHNo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 224 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=g3f7qBG6kpo
+[youtube] g3f7qBG6kpo: Downloading webpage
+[youtube] g3f7qBG6kpo: Downloading tv client config
+[youtube] g3f7qBG6kpo: Downloading tv player API JSON
+[youtube] g3f7qBG6kpo: Downloading ios player API JSON
+[youtube] g3f7qBG6kpo: Downloading m3u8 information
+[info] g3f7qBG6kpo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 225 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=n3UVfJTsZ4c
+[youtube] n3UVfJTsZ4c: Downloading webpage
+[youtube] n3UVfJTsZ4c: Downloading tv client config
+[youtube] n3UVfJTsZ4c: Downloading tv player API JSON
+[youtube] n3UVfJTsZ4c: Downloading ios player API JSON
+[youtube] n3UVfJTsZ4c: Downloading m3u8 information
+[info] n3UVfJTsZ4c: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 226 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ndHH7qJ8MPs
+[youtube] ndHH7qJ8MPs: Downloading webpage
+[youtube] ndHH7qJ8MPs: Downloading tv client config
+[youtube] ndHH7qJ8MPs: Downloading tv player API JSON
+[youtube] ndHH7qJ8MPs: Downloading ios player API JSON
+[youtube] ndHH7qJ8MPs: Downloading m3u8 information
+[info] ndHH7qJ8MPs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 227 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7Sd4Rm7Dud8
+[youtube] 7Sd4Rm7Dud8: Downloading webpage
+[youtube] 7Sd4Rm7Dud8: Downloading tv client config
+[youtube] 7Sd4Rm7Dud8: Downloading tv player API JSON
+[youtube] 7Sd4Rm7Dud8: Downloading ios player API JSON
+[youtube] 7Sd4Rm7Dud8: Downloading m3u8 information
+[info] 7Sd4Rm7Dud8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 228 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=d9uKdz7h3H8
+[youtube] d9uKdz7h3H8: Downloading webpage
+[youtube] d9uKdz7h3H8: Downloading tv client config
+[youtube] d9uKdz7h3H8: Downloading tv player API JSON
+[youtube] d9uKdz7h3H8: Downloading ios player API JSON
+[youtube] d9uKdz7h3H8: Downloading m3u8 information
+[info] d9uKdz7h3H8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 229 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RxNzQzCFoOw
+[youtube] RxNzQzCFoOw: Downloading webpage
+[youtube] RxNzQzCFoOw: Downloading tv client config
+[youtube] RxNzQzCFoOw: Downloading tv player API JSON
+[youtube] RxNzQzCFoOw: Downloading ios player API JSON
+[youtube] RxNzQzCFoOw: Downloading m3u8 information
+[info] RxNzQzCFoOw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 230 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=77cDxd2AGr8
+[youtube] 77cDxd2AGr8: Downloading webpage
+[youtube] 77cDxd2AGr8: Downloading tv client config
+[youtube] 77cDxd2AGr8: Downloading tv player API JSON
+[youtube] 77cDxd2AGr8: Downloading ios player API JSON
+[youtube] 77cDxd2AGr8: Downloading m3u8 information
+[info] 77cDxd2AGr8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 231 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pvGujm90eCk
+[youtube] pvGujm90eCk: Downloading webpage
+[youtube] pvGujm90eCk: Downloading tv client config
+[youtube] pvGujm90eCk: Downloading tv player API JSON
+[youtube] pvGujm90eCk: Downloading ios player API JSON
+[youtube] pvGujm90eCk: Downloading m3u8 information
+[info] pvGujm90eCk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 232 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=u8GrQkzzJZ4
+[youtube] u8GrQkzzJZ4: Downloading webpage
+[youtube] u8GrQkzzJZ4: Downloading tv client config
+[youtube] u8GrQkzzJZ4: Downloading tv player API JSON
+[youtube] u8GrQkzzJZ4: Downloading ios player API JSON
+[youtube] u8GrQkzzJZ4: Downloading m3u8 information
+[info] u8GrQkzzJZ4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 233 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NOBW_xnMJzc
+[youtube] NOBW_xnMJzc: Downloading webpage
+[youtube] NOBW_xnMJzc: Downloading tv client config
+[youtube] NOBW_xnMJzc: Downloading tv player API JSON
+[youtube] NOBW_xnMJzc: Downloading ios player API JSON
+[youtube] NOBW_xnMJzc: Downloading m3u8 information
+[info] NOBW_xnMJzc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 234 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5Bb14u1FA4s
+[youtube] 5Bb14u1FA4s: Downloading webpage
+[youtube] 5Bb14u1FA4s: Downloading tv client config
+[youtube] 5Bb14u1FA4s: Downloading tv player API JSON
+[youtube] 5Bb14u1FA4s: Downloading ios player API JSON
+[youtube] 5Bb14u1FA4s: Downloading m3u8 information
+[info] 5Bb14u1FA4s: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 235 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=V1fUwTJ7uoM
+[youtube] V1fUwTJ7uoM: Downloading webpage
+[youtube] V1fUwTJ7uoM: Downloading tv client config
+[youtube] V1fUwTJ7uoM: Downloading tv player API JSON
+[youtube] V1fUwTJ7uoM: Downloading ios player API JSON
+[youtube] V1fUwTJ7uoM: Downloading m3u8 information
+[info] V1fUwTJ7uoM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 236 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PZ5PuP8wM5Q
+[youtube] PZ5PuP8wM5Q: Downloading webpage
+[youtube] PZ5PuP8wM5Q: Downloading tv client config
+[youtube] PZ5PuP8wM5Q: Downloading tv player API JSON
+[youtube] PZ5PuP8wM5Q: Downloading ios player API JSON
+[youtube] PZ5PuP8wM5Q: Downloading m3u8 information
+[info] PZ5PuP8wM5Q: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 237 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Hq-9Dt2_2c8
+[youtube] Hq-9Dt2_2c8: Downloading webpage
+[youtube] Hq-9Dt2_2c8: Downloading tv client config
+[youtube] Hq-9Dt2_2c8: Downloading tv player API JSON
+[youtube] Hq-9Dt2_2c8: Downloading ios player API JSON
+[youtube] Hq-9Dt2_2c8: Downloading m3u8 information
+[info] Hq-9Dt2_2c8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 238 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=U-IuujoW8UA
+[youtube] U-IuujoW8UA: Downloading webpage
+[youtube] U-IuujoW8UA: Downloading tv client config
+[youtube] U-IuujoW8UA: Downloading tv player API JSON
+[youtube] U-IuujoW8UA: Downloading ios player API JSON
+[youtube] U-IuujoW8UA: Downloading m3u8 information
+[info] U-IuujoW8UA: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 239 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NadWLB30KEE
+[youtube] NadWLB30KEE: Downloading webpage
+[youtube] NadWLB30KEE: Downloading tv client config
+[youtube] NadWLB30KEE: Downloading tv player API JSON
+[youtube] NadWLB30KEE: Downloading ios player API JSON
+[youtube] NadWLB30KEE: Downloading m3u8 information
+[info] NadWLB30KEE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 240 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iQC6x9Vh4Sc
+[youtube] iQC6x9Vh4Sc: Downloading webpage
+[youtube] iQC6x9Vh4Sc: Downloading tv client config
+[youtube] iQC6x9Vh4Sc: Downloading tv player API JSON
+[youtube] iQC6x9Vh4Sc: Downloading ios player API JSON
+[youtube] iQC6x9Vh4Sc: Downloading m3u8 information
+[info] iQC6x9Vh4Sc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 241 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=8Eb2la8GTnY
+[youtube] 8Eb2la8GTnY: Downloading webpage
+[youtube] 8Eb2la8GTnY: Downloading tv client config
+[youtube] 8Eb2la8GTnY: Downloading tv player API JSON
+[youtube] 8Eb2la8GTnY: Downloading ios player API JSON
+[youtube] 8Eb2la8GTnY: Downloading m3u8 information
+[info] 8Eb2la8GTnY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 242 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vk9YQG9IqB4
+[youtube] vk9YQG9IqB4: Downloading webpage
+[youtube] vk9YQG9IqB4: Downloading tv client config
+[youtube] vk9YQG9IqB4: Downloading tv player API JSON
+[youtube] vk9YQG9IqB4: Downloading ios player API JSON
+[youtube] vk9YQG9IqB4: Downloading m3u8 information
+[info] vk9YQG9IqB4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 243 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=LBnCdTOJ2Ms
+[youtube] LBnCdTOJ2Ms: Downloading webpage
+[youtube] LBnCdTOJ2Ms: Downloading tv client config
+[youtube] LBnCdTOJ2Ms: Downloading tv player API JSON
+[youtube] LBnCdTOJ2Ms: Downloading ios player API JSON
+[youtube] LBnCdTOJ2Ms: Downloading m3u8 information
+[info] LBnCdTOJ2Ms: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 244 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FWTovfi_Ag0
+[youtube] FWTovfi_Ag0: Downloading webpage
+[youtube] FWTovfi_Ag0: Downloading tv client config
+[youtube] FWTovfi_Ag0: Downloading tv player API JSON
+[youtube] FWTovfi_Ag0: Downloading ios player API JSON
+[youtube] FWTovfi_Ag0: Downloading m3u8 information
+[info] FWTovfi_Ag0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 245 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IOB1U1U3HDk
+[youtube] IOB1U1U3HDk: Downloading webpage
+[youtube] IOB1U1U3HDk: Downloading tv client config
+[youtube] IOB1U1U3HDk: Downloading tv player API JSON
+[youtube] IOB1U1U3HDk: Downloading ios player API JSON
+[youtube] IOB1U1U3HDk: Downloading m3u8 information
+[info] IOB1U1U3HDk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 246 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4Zi9zGf4zSk
+[youtube] 4Zi9zGf4zSk: Downloading webpage
+[youtube] 4Zi9zGf4zSk: Downloading tv client config
+[youtube] 4Zi9zGf4zSk: Downloading tv player API JSON
+[youtube] 4Zi9zGf4zSk: Downloading ios player API JSON
+[youtube] 4Zi9zGf4zSk: Downloading m3u8 information
+[info] 4Zi9zGf4zSk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 247 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GhLin_ccw-w
+[youtube] GhLin_ccw-w: Downloading webpage
+[youtube] GhLin_ccw-w: Downloading tv client config
+[youtube] GhLin_ccw-w: Downloading tv player API JSON
+[youtube] GhLin_ccw-w: Downloading ios player API JSON
+[youtube] GhLin_ccw-w: Downloading m3u8 information
+[info] GhLin_ccw-w: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 248 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=caw3sNsbDh4
+[youtube] caw3sNsbDh4: Downloading webpage
+[youtube] caw3sNsbDh4: Downloading tv client config
+[youtube] caw3sNsbDh4: Downloading tv player API JSON
+[youtube] caw3sNsbDh4: Downloading ios player API JSON
+[youtube] caw3sNsbDh4: Downloading m3u8 information
+[info] caw3sNsbDh4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 249 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5tuaP3-mhxo
+[youtube] 5tuaP3-mhxo: Downloading webpage
+[youtube] 5tuaP3-mhxo: Downloading tv client config
+[youtube] 5tuaP3-mhxo: Downloading tv player API JSON
+[youtube] 5tuaP3-mhxo: Downloading ios player API JSON
+[youtube] 5tuaP3-mhxo: Downloading m3u8 information
+[info] 5tuaP3-mhxo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 250 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=DMWONYxF41I
+[youtube] DMWONYxF41I: Downloading webpage
+[youtube] DMWONYxF41I: Downloading tv client config
+[youtube] DMWONYxF41I: Downloading tv player API JSON
+[youtube] DMWONYxF41I: Downloading ios player API JSON
+[youtube] DMWONYxF41I: Downloading m3u8 information
+[info] DMWONYxF41I: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 251 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pe4-dut9MhQ
+[youtube] pe4-dut9MhQ: Downloading webpage
+[youtube] pe4-dut9MhQ: Downloading tv client config
+[youtube] pe4-dut9MhQ: Downloading tv player API JSON
+[youtube] pe4-dut9MhQ: Downloading ios player API JSON
+[youtube] pe4-dut9MhQ: Downloading m3u8 information
+[info] pe4-dut9MhQ: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 252 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=e0pf9u5iVPg
+[youtube] e0pf9u5iVPg: Downloading webpage
+[youtube] e0pf9u5iVPg: Downloading tv client config
+[youtube] e0pf9u5iVPg: Downloading tv player API JSON
+[youtube] e0pf9u5iVPg: Downloading ios player API JSON
+[youtube] e0pf9u5iVPg: Downloading m3u8 information
+[info] e0pf9u5iVPg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 253 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1MeWQYcrWrs
+[youtube] 1MeWQYcrWrs: Downloading webpage
+[youtube] 1MeWQYcrWrs: Downloading tv client config
+[youtube] 1MeWQYcrWrs: Downloading tv player API JSON
+[youtube] 1MeWQYcrWrs: Downloading ios player API JSON
+[youtube] 1MeWQYcrWrs: Downloading m3u8 information
+[info] 1MeWQYcrWrs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 254 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=V8gHXlrI98o
+[youtube] V8gHXlrI98o: Downloading webpage
+[youtube] V8gHXlrI98o: Downloading tv client config
+[youtube] V8gHXlrI98o: Downloading tv player API JSON
+[youtube] V8gHXlrI98o: Downloading ios player API JSON
+[youtube] V8gHXlrI98o: Downloading m3u8 information
+[info] V8gHXlrI98o: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 255 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sYG1yIQY4-Y
+[youtube] sYG1yIQY4-Y: Downloading webpage
+[youtube] sYG1yIQY4-Y: Downloading tv client config
+[youtube] sYG1yIQY4-Y: Downloading tv player API JSON
+[youtube] sYG1yIQY4-Y: Downloading ios player API JSON
+[youtube] sYG1yIQY4-Y: Downloading m3u8 information
+[info] sYG1yIQY4-Y: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 256 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FJPP1HbDkeY
+[youtube] FJPP1HbDkeY: Downloading webpage
+[youtube] FJPP1HbDkeY: Downloading tv client config
+[youtube] FJPP1HbDkeY: Downloading tv player API JSON
+[youtube] FJPP1HbDkeY: Downloading ios player API JSON
+[youtube] FJPP1HbDkeY: Downloading m3u8 information
+[info] FJPP1HbDkeY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 257 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=p204uk3JOJE
+[youtube] p204uk3JOJE: Downloading webpage
+[youtube] p204uk3JOJE: Downloading tv client config
+[youtube] p204uk3JOJE: Downloading tv player API JSON
+[youtube] p204uk3JOJE: Downloading ios player API JSON
+[youtube] p204uk3JOJE: Downloading m3u8 information
+[info] p204uk3JOJE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 258 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iDweZbq9J9o
+[youtube] iDweZbq9J9o: Downloading webpage
+[youtube] iDweZbq9J9o: Downloading tv client config
+[youtube] iDweZbq9J9o: Downloading tv player API JSON
+[youtube] iDweZbq9J9o: Downloading ios player API JSON
+[youtube] iDweZbq9J9o: Downloading m3u8 information
+[info] iDweZbq9J9o: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 259 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=19pN_vcZnM8
+[youtube] 19pN_vcZnM8: Downloading webpage
+[youtube] 19pN_vcZnM8: Downloading tv client config
+[youtube] 19pN_vcZnM8: Downloading tv player API JSON
+[youtube] 19pN_vcZnM8: Downloading ios player API JSON
+[youtube] 19pN_vcZnM8: Downloading m3u8 information
+[info] 19pN_vcZnM8: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 260 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iV6GbDfy_qo
+[youtube] iV6GbDfy_qo: Downloading webpage
+[youtube] iV6GbDfy_qo: Downloading tv client config
+[youtube] iV6GbDfy_qo: Downloading tv player API JSON
+[youtube] iV6GbDfy_qo: Downloading ios player API JSON
+[youtube] iV6GbDfy_qo: Downloading m3u8 information
+[info] iV6GbDfy_qo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 261 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7uuF0YfBF98
+[youtube] 7uuF0YfBF98: Downloading webpage
+[youtube] 7uuF0YfBF98: Downloading tv client config
+[youtube] 7uuF0YfBF98: Downloading tv player API JSON
+[youtube] 7uuF0YfBF98: Downloading ios player API JSON
+[youtube] 7uuF0YfBF98: Downloading m3u8 information
+[info] 7uuF0YfBF98: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 262 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=IdPt2NTk540
+[youtube] IdPt2NTk540: Downloading webpage
+[youtube] IdPt2NTk540: Downloading tv client config
+[youtube] IdPt2NTk540: Downloading tv player API JSON
+[youtube] IdPt2NTk540: Downloading ios player API JSON
+[youtube] IdPt2NTk540: Downloading m3u8 information
+[info] IdPt2NTk540: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 263 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JNmB5nfJ75w
+[youtube] JNmB5nfJ75w: Downloading webpage
+[youtube] JNmB5nfJ75w: Downloading tv client config
+[youtube] JNmB5nfJ75w: Downloading tv player API JSON
+[youtube] JNmB5nfJ75w: Downloading ios player API JSON
+[youtube] JNmB5nfJ75w: Downloading m3u8 information
+[info] JNmB5nfJ75w: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 264 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_fF_l8b1-FY
+[youtube] _fF_l8b1-FY: Downloading webpage
+[youtube] _fF_l8b1-FY: Downloading tv client config
+[youtube] _fF_l8b1-FY: Downloading tv player API JSON
+[youtube] _fF_l8b1-FY: Downloading ios player API JSON
+[youtube] _fF_l8b1-FY: Downloading m3u8 information
+[info] _fF_l8b1-FY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 265 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=H6AzEgqZvWU
+[youtube] H6AzEgqZvWU: Downloading webpage
+[youtube] H6AzEgqZvWU: Downloading tv client config
+[youtube] H6AzEgqZvWU: Downloading tv player API JSON
+[youtube] H6AzEgqZvWU: Downloading ios player API JSON
+[youtube] H6AzEgqZvWU: Downloading m3u8 information
+[info] H6AzEgqZvWU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 266 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zHSX8CtSgfc
+[youtube] zHSX8CtSgfc: Downloading webpage
+[youtube] zHSX8CtSgfc: Downloading tv client config
+[youtube] zHSX8CtSgfc: Downloading tv player API JSON
+[youtube] zHSX8CtSgfc: Downloading ios player API JSON
+[youtube] zHSX8CtSgfc: Downloading m3u8 information
+[info] zHSX8CtSgfc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 267 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Yo4ecwXNsR4
+[youtube] Yo4ecwXNsR4: Downloading webpage
+[youtube] Yo4ecwXNsR4: Downloading tv client config
+[youtube] Yo4ecwXNsR4: Downloading tv player API JSON
+[youtube] Yo4ecwXNsR4: Downloading ios player API JSON
+[youtube] Yo4ecwXNsR4: Downloading m3u8 information
+[info] Yo4ecwXNsR4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 268 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1FPbfifKU9o
+[youtube] 1FPbfifKU9o: Downloading webpage
+[youtube] 1FPbfifKU9o: Downloading tv client config
+[youtube] 1FPbfifKU9o: Downloading tv player API JSON
+[youtube] 1FPbfifKU9o: Downloading ios player API JSON
+[youtube] 1FPbfifKU9o: Downloading m3u8 information
+[info] 1FPbfifKU9o: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 269 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gkK439eRvCI
+[youtube] gkK439eRvCI: Downloading webpage
+[youtube] gkK439eRvCI: Downloading tv client config
+[youtube] gkK439eRvCI: Downloading tv player API JSON
+[youtube] gkK439eRvCI: Downloading ios player API JSON
+[youtube] gkK439eRvCI: Downloading m3u8 information
+[info] gkK439eRvCI: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 270 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ITAx-69zLWg
+[youtube] ITAx-69zLWg: Downloading webpage
+[youtube] ITAx-69zLWg: Downloading tv client config
+[youtube] ITAx-69zLWg: Downloading tv player API JSON
+[youtube] ITAx-69zLWg: Downloading ios player API JSON
+[youtube] ITAx-69zLWg: Downloading m3u8 information
+[info] ITAx-69zLWg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 271 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=s4N0XWdVPJ4
+[youtube] s4N0XWdVPJ4: Downloading webpage
+[youtube] s4N0XWdVPJ4: Downloading tv client config
+[youtube] s4N0XWdVPJ4: Downloading tv player API JSON
+[youtube] s4N0XWdVPJ4: Downloading ios player API JSON
+[youtube] s4N0XWdVPJ4: Downloading m3u8 information
+[info] s4N0XWdVPJ4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 272 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=iYO8ELwTN38
+[youtube] iYO8ELwTN38: Downloading webpage
+[youtube] iYO8ELwTN38: Downloading tv client config
+[youtube] iYO8ELwTN38: Downloading tv player API JSON
+[youtube] iYO8ELwTN38: Downloading ios player API JSON
+[youtube] iYO8ELwTN38: Downloading m3u8 information
+[info] iYO8ELwTN38: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 273 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TEgtRTQ5wTc
+[youtube] TEgtRTQ5wTc: Downloading webpage
+[youtube] TEgtRTQ5wTc: Downloading tv client config
+[youtube] TEgtRTQ5wTc: Downloading tv player API JSON
+[youtube] TEgtRTQ5wTc: Downloading ios player API JSON
+[youtube] TEgtRTQ5wTc: Downloading m3u8 information
+[info] TEgtRTQ5wTc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 274 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=v03rB13a_Rc
+[youtube] v03rB13a_Rc: Downloading webpage
+[youtube] v03rB13a_Rc: Downloading tv client config
+[youtube] v03rB13a_Rc: Downloading tv player API JSON
+[youtube] v03rB13a_Rc: Downloading ios player API JSON
+[youtube] v03rB13a_Rc: Downloading m3u8 information
+[info] v03rB13a_Rc: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 275 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zWjfmKN00w4
+[youtube] zWjfmKN00w4: Downloading webpage
+[youtube] zWjfmKN00w4: Downloading tv client config
+[youtube] zWjfmKN00w4: Downloading tv player API JSON
+[youtube] zWjfmKN00w4: Downloading ios player API JSON
+[youtube] zWjfmKN00w4: Downloading m3u8 information
+[info] zWjfmKN00w4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 276 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=klfTKl_nX1s
+[youtube] klfTKl_nX1s: Downloading webpage
+[youtube] klfTKl_nX1s: Downloading tv client config
+[youtube] klfTKl_nX1s: Downloading tv player API JSON
+[youtube] klfTKl_nX1s: Downloading ios player API JSON
+[youtube] klfTKl_nX1s: Downloading m3u8 information
+[info] klfTKl_nX1s: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 277 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OMohUQ7EViE
+[youtube] OMohUQ7EViE: Downloading webpage
+[youtube] OMohUQ7EViE: Downloading tv client config
+[youtube] OMohUQ7EViE: Downloading tv player API JSON
+[youtube] OMohUQ7EViE: Downloading ios player API JSON
+[youtube] OMohUQ7EViE: Downloading m3u8 information
+[info] OMohUQ7EViE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 278 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hgD5gvBmDW4
+[youtube] hgD5gvBmDW4: Downloading webpage
+[youtube] hgD5gvBmDW4: Downloading tv client config
+[youtube] hgD5gvBmDW4: Downloading tv player API JSON
+[youtube] hgD5gvBmDW4: Downloading ios player API JSON
+[youtube] hgD5gvBmDW4: Downloading m3u8 information
+[info] hgD5gvBmDW4: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 279 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5-fZUifiOQM
+[youtube] 5-fZUifiOQM: Downloading webpage
+[youtube] 5-fZUifiOQM: Downloading tv client config
+[youtube] 5-fZUifiOQM: Downloading tv player API JSON
+[youtube] 5-fZUifiOQM: Downloading ios player API JSON
+[youtube] 5-fZUifiOQM: Downloading m3u8 information
+[info] 5-fZUifiOQM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 280 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=x6odz-ZB1Io
+[youtube] x6odz-ZB1Io: Downloading webpage
+[youtube] x6odz-ZB1Io: Downloading tv client config
+[youtube] x6odz-ZB1Io: Downloading tv player API JSON
+[youtube] x6odz-ZB1Io: Downloading ios player API JSON
+[youtube] x6odz-ZB1Io: Downloading m3u8 information
+[info] x6odz-ZB1Io: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 281 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=_ubaXOijS8k
+[youtube] _ubaXOijS8k: Downloading webpage
+[youtube] _ubaXOijS8k: Downloading tv client config
+[youtube] _ubaXOijS8k: Downloading tv player API JSON
+[youtube] _ubaXOijS8k: Downloading ios player API JSON
+[youtube] _ubaXOijS8k: Downloading m3u8 information
+[info] _ubaXOijS8k: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 282 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=K0U7CuQjqdU
+[youtube] K0U7CuQjqdU: Downloading webpage
+[youtube] K0U7CuQjqdU: Downloading tv client config
+[youtube] K0U7CuQjqdU: Downloading tv player API JSON
+[youtube] K0U7CuQjqdU: Downloading ios player API JSON
+[youtube] K0U7CuQjqdU: Downloading m3u8 information
+[info] K0U7CuQjqdU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 283 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4muAglSg6kg
+[youtube] 4muAglSg6kg: Downloading webpage
+[youtube] 4muAglSg6kg: Downloading tv client config
+[youtube] 4muAglSg6kg: Downloading tv player API JSON
+[youtube] 4muAglSg6kg: Downloading ios player API JSON
+[youtube] 4muAglSg6kg: Downloading m3u8 information
+[info] 4muAglSg6kg: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 284 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tHPjlVrLrc0
+[youtube] tHPjlVrLrc0: Downloading webpage
+[youtube] tHPjlVrLrc0: Downloading tv client config
+[youtube] tHPjlVrLrc0: Downloading tv player API JSON
+[youtube] tHPjlVrLrc0: Downloading ios player API JSON
+[youtube] tHPjlVrLrc0: Downloading m3u8 information
+[info] tHPjlVrLrc0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 285 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NnDLbnbMdxE
+[youtube] NnDLbnbMdxE: Downloading webpage
+[youtube] NnDLbnbMdxE: Downloading tv client config
+[youtube] NnDLbnbMdxE: Downloading tv player API JSON
+[youtube] NnDLbnbMdxE: Downloading ios player API JSON
+[youtube] NnDLbnbMdxE: Downloading m3u8 information
+[info] NnDLbnbMdxE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 286 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ZZ3O8rgvW4k
+[youtube] ZZ3O8rgvW4k: Downloading webpage
+[youtube] ZZ3O8rgvW4k: Downloading tv client config
+[youtube] ZZ3O8rgvW4k: Downloading tv player API JSON
+[youtube] ZZ3O8rgvW4k: Downloading ios player API JSON
+[youtube] ZZ3O8rgvW4k: Downloading m3u8 information
+[info] ZZ3O8rgvW4k: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 287 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hGaJUSBGe3I
+[youtube] hGaJUSBGe3I: Downloading webpage
+[youtube] hGaJUSBGe3I: Downloading tv client config
+[youtube] hGaJUSBGe3I: Downloading tv player API JSON
+[youtube] hGaJUSBGe3I: Downloading ios player API JSON
+[youtube] hGaJUSBGe3I: Downloading m3u8 information
+[info] hGaJUSBGe3I: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 288 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7i5iUDys5Qw
+[youtube] 7i5iUDys5Qw: Downloading webpage
+[youtube] 7i5iUDys5Qw: Downloading tv client config
+[youtube] 7i5iUDys5Qw: Downloading tv player API JSON
+[youtube] 7i5iUDys5Qw: Downloading ios player API JSON
+[youtube] 7i5iUDys5Qw: Downloading m3u8 information
+[info] 7i5iUDys5Qw: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 289 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ej6GJC8Mdjo
+[youtube] ej6GJC8Mdjo: Downloading webpage
+[youtube] ej6GJC8Mdjo: Downloading tv client config
+[youtube] ej6GJC8Mdjo: Downloading tv player API JSON
+[youtube] ej6GJC8Mdjo: Downloading ios player API JSON
+[youtube] ej6GJC8Mdjo: Downloading m3u8 information
+[info] ej6GJC8Mdjo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 290 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5NMol0Ss5bE
+[youtube] 5NMol0Ss5bE: Downloading webpage
+[youtube] 5NMol0Ss5bE: Downloading tv client config
+[youtube] 5NMol0Ss5bE: Downloading tv player API JSON
+[youtube] 5NMol0Ss5bE: Downloading ios player API JSON
+[youtube] 5NMol0Ss5bE: Downloading m3u8 information
+[info] 5NMol0Ss5bE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 291 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=srk8vkzoCoU
+[youtube] srk8vkzoCoU: Downloading webpage
+[youtube] srk8vkzoCoU: Downloading tv client config
+[youtube] srk8vkzoCoU: Downloading tv player API JSON
+[youtube] srk8vkzoCoU: Downloading ios player API JSON
+[youtube] srk8vkzoCoU: Downloading m3u8 information
+[info] srk8vkzoCoU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 292 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FUi3thCTPbk
+[youtube] FUi3thCTPbk: Downloading webpage
+[youtube] FUi3thCTPbk: Downloading tv client config
+[youtube] FUi3thCTPbk: Downloading tv player API JSON
+[youtube] FUi3thCTPbk: Downloading ios player API JSON
+[youtube] FUi3thCTPbk: Downloading m3u8 information
+[info] FUi3thCTPbk: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 293 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=04XJLMZ5yXs
+[youtube] 04XJLMZ5yXs: Downloading webpage
+[youtube] 04XJLMZ5yXs: Downloading tv client config
+[youtube] 04XJLMZ5yXs: Downloading tv player API JSON
+[youtube] 04XJLMZ5yXs: Downloading ios player API JSON
+[youtube] 04XJLMZ5yXs: Downloading m3u8 information
+[info] 04XJLMZ5yXs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 294 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5JgQwu_6Ug0
+[youtube] 5JgQwu_6Ug0: Downloading webpage
+[youtube] 5JgQwu_6Ug0: Downloading tv client config
+[youtube] 5JgQwu_6Ug0: Downloading tv player API JSON
+[youtube] 5JgQwu_6Ug0: Downloading ios player API JSON
+[youtube] 5JgQwu_6Ug0: Downloading m3u8 information
+[info] 5JgQwu_6Ug0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 295 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=M36xwecH9_s
+[youtube] M36xwecH9_s: Downloading webpage
+[youtube] M36xwecH9_s: Downloading tv client config
+[youtube] M36xwecH9_s: Downloading tv player API JSON
+[youtube] M36xwecH9_s: Downloading ios player API JSON
+[youtube] M36xwecH9_s: Downloading m3u8 information
+[info] M36xwecH9_s: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 296 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QFThSYlHDp0
+[youtube] QFThSYlHDp0: Downloading webpage
+[youtube] QFThSYlHDp0: Downloading tv client config
+[youtube] QFThSYlHDp0: Downloading tv player API JSON
+[youtube] QFThSYlHDp0: Downloading ios player API JSON
+[youtube] QFThSYlHDp0: Downloading m3u8 information
+[info] QFThSYlHDp0: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 297 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FiENDQapd4g
+[youtube] FiENDQapd4g: Downloading webpage
+[youtube] FiENDQapd4g: Downloading tv client config
+[youtube] FiENDQapd4g: Downloading tv player API JSON
+[youtube] FiENDQapd4g: Downloading ios player API JSON
+[youtube] FiENDQapd4g: Downloading m3u8 information
+[info] FiENDQapd4g: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 298 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tyVkUc9-bJo
+[youtube] tyVkUc9-bJo: Downloading webpage
+[youtube] tyVkUc9-bJo: Downloading tv client config
+[youtube] tyVkUc9-bJo: Downloading tv player API JSON
+[youtube] tyVkUc9-bJo: Downloading ios player API JSON
+[youtube] tyVkUc9-bJo: Downloading m3u8 information
+[info] tyVkUc9-bJo: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 299 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wmpyAj0fRyU
+[youtube] wmpyAj0fRyU: Downloading webpage
+[youtube] wmpyAj0fRyU: Downloading tv client config
+[youtube] wmpyAj0fRyU: Downloading tv player API JSON
+[youtube] wmpyAj0fRyU: Downloading ios player API JSON
+[youtube] wmpyAj0fRyU: Downloading m3u8 information
+[info] wmpyAj0fRyU: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 300 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=WNyLxYTsTzE
+[youtube] WNyLxYTsTzE: Downloading webpage
+[youtube] WNyLxYTsTzE: Downloading tv client config
+[youtube] WNyLxYTsTzE: Downloading tv player API JSON
+[youtube] WNyLxYTsTzE: Downloading ios player API JSON
+[youtube] WNyLxYTsTzE: Downloading m3u8 information
+[info] WNyLxYTsTzE: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 301 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SDzeD1GHh2A
+[youtube] SDzeD1GHh2A: Downloading webpage
+[youtube] SDzeD1GHh2A: Downloading tv client config
+[youtube] SDzeD1GHh2A: Downloading tv player API JSON
+[youtube] SDzeD1GHh2A: Downloading ios player API JSON
+[youtube] SDzeD1GHh2A: Downloading m3u8 information
+[info] SDzeD1GHh2A: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 302 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=WVDmbzsCglM
+[youtube] WVDmbzsCglM: Downloading webpage
+[youtube] WVDmbzsCglM: Downloading tv client config
+[youtube] WVDmbzsCglM: Downloading tv player API JSON
+[youtube] WVDmbzsCglM: Downloading ios player API JSON
+[youtube] WVDmbzsCglM: Downloading m3u8 information
+[info] WVDmbzsCglM: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 303 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vSMB99tdkck
+[youtube] vSMB99tdkck: Downloading webpage
+[youtube] vSMB99tdkck: Downloading tv client config
+[youtube] vSMB99tdkck: Downloading tv player API JSON
+[youtube] vSMB99tdkck: Downloading ios player API JSON
+[youtube] vSMB99tdkck: Downloading m3u8 information
+[info] vSMB99tdkck: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 304 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qR_Mbj2khsY
+[youtube] qR_Mbj2khsY: Downloading webpage
+[youtube] qR_Mbj2khsY: Downloading tv client config
+[youtube] qR_Mbj2khsY: Downloading tv player API JSON
+[youtube] qR_Mbj2khsY: Downloading ios player API JSON
+[youtube] qR_Mbj2khsY: Downloading m3u8 information
+[info] qR_Mbj2khsY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 305 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=E5Abq8L5uno
+[youtube] E5Abq8L5uno: Downloading webpage
+[youtube] E5Abq8L5uno: Downloading tv client config
+[youtube] E5Abq8L5uno: Downloading tv player API JSON
+[youtube] E5Abq8L5uno: Downloading ios player API JSON
+[youtube] E5Abq8L5uno: Downloading m3u8 information
+[info] E5Abq8L5uno: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 306 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gLZO6O9v-IY
+[youtube] gLZO6O9v-IY: Downloading webpage
+[youtube] gLZO6O9v-IY: Downloading tv client config
+[youtube] gLZO6O9v-IY: Downloading tv player API JSON
+[youtube] gLZO6O9v-IY: Downloading ios player API JSON
+[youtube] gLZO6O9v-IY: Downloading m3u8 information
+[info] gLZO6O9v-IY: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Downloading item 307 of 307
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-f3Lv18YoUs
+[youtube] -f3Lv18YoUs: Downloading webpage
+[youtube] -f3Lv18YoUs: Downloading tv client config
+[youtube] -f3Lv18YoUs: Downloading tv player API JSON
+[youtube] -f3Lv18YoUs: Downloading ios player API JSON
+[youtube] -f3Lv18YoUs: Downloading m3u8 information
+[info] -f3Lv18YoUs: Downloading 1 format(s): 18
+[download] C:\Users\CP\AppData\Local\Temp\yt_C34B.tmp.mp4 has already been downloaded
+[download] 100% of    9.11MiB
+[download] Finished downloading playlist: Mix - UNIYAL - Vartmaan prod. Soumya Rawat (Official Music Video)
